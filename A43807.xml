@@ -1,0 +1,783 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Solomon and Abiathar, or, The case of the deprived bishops and clergy discussed, between Eucheres a conformist, and Dyscheres a recusant</title>
+            <author>Hill, Samuel, 1648-1716.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 90 KB of XML-encoded text transcribed from 21 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A43807</idno>
+            <idno type="STC">Wing H2012</idno>
+            <idno type="STC">ESTC R12780</idno>
+            <idno type="EEBO-CITATION">11827378</idno>
+            <idno type="OCLC">ocm 11827378</idno>
+            <idno type="VID">49698</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A43807)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 49698)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 496:43)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Solomon and Abiathar, or, The case of the deprived bishops and clergy discussed, between Eucheres a conformist, and Dyscheres a recusant</title>
+                  <author>Hill, Samuel, 1648-1716.</author>
+               </titleStmt>
+               <extent>[6], 34 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Ric. Chiswell ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1692.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church and state --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="half_title">
+            <pb facs="tcp:49698:1"/>
+            <pb facs="tcp:49698:1"/>
+            <p>
+               <hi>Solomon</hi> and <hi>Abiathar:</hi> OR, THE CASE OF THE Deprived BISHOPS and CLERGY, DISCUSSED.</p>
+         </div>
+         <div type="imprimatur">
+            <pb facs="tcp:49698:2"/>
+            <p>IMPRIMATUR.</p>
+            <closer>
+               <signed>Carolus Alſton R. P. D. Hen. Epiſc. Lond. à Sacris Dome<g ref="char:EOLhyphen"/>ſticis.</signed>
+               <dateline>
+                  <date>Junii 6. 1692.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:49698:2"/>
+            <p>
+               <hi>Solomon</hi> and <hi>Abiathar:</hi> OR, THE CASE OF THE Deprived BISHOPS and CLERGY DISCUSSED, BETWEEN <hi>E<g ref="char:V">Ʋ</g>CHERES</hi> a Conformiſt, AND <hi>DYSCHERES</hi> a Recuſant.</p>
+            <q>En quò Diſcordia!—</q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Ric. Chiſwell,</hi> at the <hi>Roſe</hi> and <hi>Crown</hi> in St. <hi>Paul</hi>'s <hi>Church-Yard,</hi> MDCXCII.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:49698:3"/>
+            <pb facs="tcp:49698:3"/>
+            <head>THE PREFACE.</head>
+            <opener>
+               <salute>Good Reader,</salute>
+            </opener>
+            <p>
+               <hi>I</hi> Am a Man diſtreſſed at the preſent Change of <hi>Biſhops,</hi> that have looked on the Fate of the Deprived Fathers as an Eclipſe to the Church, a Re<g ref="char:EOLhyphen"/>proach to the Nation, and an Inſtance of dangerous Conſequences. I have had hard Thoughts of <hi>Them</hi> that accepted their <hi>Sees,</hi> the <hi>Chapters</hi> that Elected, and the <hi>Biſhops</hi> that Conſecrated them, without any Remonſtrance or Interceſſion for the Ejected; and have prepared my ſelf to loſe all, rather than to acknowledge the Superinduced. Yet fearing, on the other hand, leſt I ſhould, through an ungarded Zeal, be too Cenſorious upon the Conſciences of many Ad<g ref="char:EOLhyphen"/>mirable Men concurring hereunto, I reſolved to diſ<g ref="char:EOLhyphen"/>cuſs the Cauſe to my utmoſt, according to the beſt Notices I could Remember or Collect; the which are here digeſted into a Dialogue, in which I have ſet forth the Arguments of moſt weight (that occur to me) to the fulleſt Advantage of either ſide, according to the Senſe of the oppoſite Parties. In which, where either Dialogiſt remains unanſwered, there I my
+<pb facs="tcp:49698:4"/>ſelf am at a fault, and know not how to make a ſatisfactory Reply to my own Conſcience. This is therefore to beg the Learned World, to ſuccour me in theſe Defects: And becauſe the Deprived have not the Privilege of the Preſs, if they on their Part will give in their Corrections or Informations to my Editor, I ſhall receive the Favour with all Gratitude, and do promiſe them all juſt Secrecy. The Deſign being Firſt to be enabled and in<g ref="char:EOLhyphen"/>ſtructed hereby what to do, to quiet my own Con<g ref="char:EOLhyphen"/>ſcience, which is dearer to me than all worldly In<g ref="char:EOLhyphen"/>tereſts; and Secondly to provoke the Learned to offer ſuch Diſcourſes hereupon to the Publick, as may ſettle others, that are under the ſame Diſſa<g ref="char:EOLhyphen"/>tisfactions with my ſelf.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb n="1" facs="tcp:49698:4"/>
+            <head>
+               <hi>Solomon</hi> and <hi>Abiathar:</hi> OR, THE CASE of the Deprived BISHOPS and CLERGY, Diſcuſſed, between <hi>Eucheres</hi> a Conformiſt, and <hi>Dyſcheres</hi> a Recuſant.</head>
+            <sp>
+               <speaker>Eucher.</speaker>
+               <p>BRother <hi>Dyiſcheres,</hi> I have undertaken this Viſit on purpoſe to invite you next <hi>Wed<g ref="char:EOLhyphen"/>neſday</hi> to a ſmall Treat, where you will meet with ſeveral your eſpecial Friends, among whom I promiſe you a very hearty Welcome.</p>
+            </sp>
+            <sp>
+               <speaker>Dyſcher.</speaker>
+               <p>I am very ſorry that I cannot anſwer ſo kind an Invitation, that Day being our Faſt-day, on which we that are ejected as Offenders, with our conſtant Ad<g ref="char:EOLhyphen"/>herents, do Solemnly humble our ſelves before God, to re<g ref="char:EOLhyphen"/>verſe his Diſpleaſure, provoked by the Deplorable Diſloyal<g ref="char:EOLhyphen"/>ty and Schiſm of the Nation, in rejecting the true King, and the ſincere Biſhops and Clergy, for their bounden Conſcience and Loyalty. 'Tis ſurely, Brother, a time for Sackcloth and Aſhes, and not for Diverſions, ſince the Glory is departed from <hi>Iſrael,</hi> and the Light of God's Countenance is gone from us.</p>
+            </sp>
+            <sp>
+               <speaker>Eucher.</speaker>
+               <p>I do as heartily bewail all the Evils that have hap<g ref="char:EOLhyphen"/>pened in this Nation, on occaſion of this great Revolution; but when we conſider, that in the midſt of Mens Impieties, the Goodneſs of God hath not been ceſſant, but (as his way uſually is) out of the Evils of Men hath produced a moſt eminent Good in the Redemption of his own People, and Faithful Children, and this endangered Church, from the Inundations of Popery and Bondage; the Innocent, as they are to deplore the National Impieties, ſo are ſtill obliged
+<pb n="2" facs="tcp:49698:5"/>to ſing the Songs of <hi>Sion</hi> in this yet happy Land, for that God hath not forſaken, but viſited his People with a great Salvation, in not leading us into Temptation, but deliver<g ref="char:EOLhyphen"/>ing us from the Evil. And it is to you a greater Infelicity than your Deprivations, that you have not concurred with us in theſe ſacred Bleſſings, Joys, and Exultations.</p>
+            </sp>
+            <sp>
+               <speaker>Dyſcher.</speaker>
+               <p>As if the preſent State were not worſe than a deluge of Popery! For then the Church would have ſaved her Integrity, tho' not her Eaſe. Now the Daughter of <hi>Sion</hi> is become an Harlot; the generality of her Children apoſtate, and unchurched; and the Faith and Communion is with the few, who have rather choſen to ſuffer Afflicti<g ref="char:EOLhyphen"/>on as the People of God, than to dwell in the Tents of un<g ref="char:EOLhyphen"/>righteouſneſs.</p>
+            </sp>
+            <sp>
+               <speaker>Eucher.</speaker>
+               <p>Zeal is an excellent Flame of Spirit, while it is under Rule and Moderation, but otherwiſe there is no Wild<g ref="char:EOLhyphen"/>fire more raging. And ſuch a kind of Fury it is to charge our Submiſſion to the preſent Conſtitution, to be an Excommunication, <hi>ipſo facto,</hi> even before it can be proved to be a Sin. For admitting it to be a Sin, yea a crying Sin, yet every ſuch Sin doth not <hi>ipſo facto</hi> unchurch ſingle Per<g ref="char:EOLhyphen"/>ſons, or publick Societies; moſt certainly they do not, if the Principles of Doctrine, or Opinion, whence theſe Sins receive encouragement, do not deſtroy the Churches Fun<g ref="char:EOLhyphen"/>damentals, or Structure; which our Conformity certainly doth not: But an authentick Act muſt paſs in order to a ſtate of actual Expulſion. Nay, we aſſert the Church of <hi>Rome</hi> ſtill to be a Church, notwithſtanding her great Breaches made upon the Beauty of Holineſs; nor do we unchurch the <hi>Eaſtern</hi> Churches, notwithſtanding their great Diſ<g ref="char:EOLhyphen"/>orders and Confuſions. And can this Change in our Church parallel the Corruptions of theſe, who having no Judge but God, do yet remain Churches in all their Pol<g ref="char:EOLhyphen"/>lutions?</p>
+            </sp>
+            <sp>
+               <speaker>Dyſcher.</speaker>
+               <p>Admitting then that you are not actually un<g ref="char:EOLhyphen"/>churched for want of an Eccleſiaſtical Judge, yet if your Apoſtaſie merit it, ſo that good Men may not maintain any Religious Communion with you, without danger of encou<g ref="char:EOLhyphen"/>raging you, or defiling themſelves, or offending other Mens Conſciences; this is enough to juſtifie our Seceſſion. For hereupon we brake off from the Communion, as well as
+<pb n="3" facs="tcp:49698:5"/>Sovereignty, of the <hi>Roman</hi> Church, tho' in her we own the Eſſentials of a Church.</p>
+            </sp>
+            <sp>
+               <speaker>Eucher.</speaker>
+               <p>Tho' our Church juſtly and abſolutely rejects the <hi>Roman</hi> Monarchy, yet ſhe will not refuſe any lawful Com<g ref="char:EOLhyphen"/>munion or Correſpondence with it in any good Eccleſia<g ref="char:EOLhyphen"/>ſtical Negotiations conſiſtent with Integrity, ſaving ſtill a publick Remonſtrance to all her Pollutions. So you ſhould communicate with us in all that is Lawful, eſpecially ſince 'tis poſſible, and by you fairly ſuppoſable, that (if we do amiſs) we do ſo through Simplicity, and want of Under<g ref="char:EOLhyphen"/>ſtanding, which you might eaſier heal by Accommodation, than by a ſevere Rupture and Separation.</p>
+            </sp>
+            <sp>
+               <speaker>Dyſcher.</speaker>
+               <p>We carefully obſerved this Method, while you only conformed to the preſent Temporal Powers, but did not Eject your Fathers and Brethren from their Stations in the Church; but now you have broken the very Eſſential Bonds of Eccleſiaſtical Communion, and begun the Schiſm, in admitting Intruders into the Room of them, who were ejected only for practiſing the Doctrines of the Church.</p>
+            </sp>
+            <sp>
+               <speaker>Eucher.</speaker>
+               <p>If their Ejection be only for Adhering to the Doctrines of this Church, or the Laws of God, I will al<g ref="char:EOLhyphen"/>low you, that they are perſecuted, by the Church as well as the State: But this will require a very clear proof, ere we can be juſtly charged with ſo great an Impiety.</p>
+            </sp>
+            <sp>
+               <speaker>Dyſcher.</speaker>
+               <p>This Church hath ever Taught us to preſerve an untainted Loyalty to our lawful Sovereigns, which with us come in by Inheritance; and accordingly our Oath of Al<g ref="char:EOLhyphen"/>legiance binds us to the King, his Heirs, and [Lawful] Succeſſors; and this Obligation ceaſeth not, till Death, or Reſignation diſſolves it: Neither of which happened in this Revolution.</p>
+            </sp>
+            <sp>
+               <speaker>Eucher.</speaker>
+               <p>If by Reſignation you mean a formal voluntary Act and Deed, paſſing away the Title Royal, then I deny that Death only, and Reſignation, vacate our Allegiance; for many Publick Authorities are void by mere Ceſſion, and Deſertion; which is indeed in Law equivalent to a Reſigna<g ref="char:EOLhyphen"/>tion. And ſuch a Ceſſion here hapned, which the Eſtates in Convention judged a Virtual Abdication of the Sove<g ref="char:EOLhyphen"/>reignty; and of this (being a Point of Law) they were to us at that time, and in that juncture, the moſt Compe<g ref="char:EOLhyphen"/>tent, Authentick, and Final Judges; which we are the more
+<pb n="4" facs="tcp:49698:6"/>to ſubmit to, ſince the Kingdom hath ratified their Pro<g ref="char:EOLhyphen"/>ceedings in a ſecond Parliament. And though K. <hi>James</hi> abroad condemns them, yet that is no Argument either that they were unjuſt, or inauthoritative. 'Tis granted that this Church preaches up an indiſpenſable Loyalty to the So<g ref="char:EOLhyphen"/>vereign, during the Tenure of his Sovereignty; but when a King is fled from his Throne into Foreign Dominions, or doth not exert any Royal Power or Preſence to his People, the Eſtates of this Land are the Supreme Domeſtick Judges upon the Tenure of the Sovereignty; which is not to make them Judges of the King's Perſon, but in the want of his Perſon, of the State of the Kingdom, and the Rights of the Nation, in order to Settlement. Nor is it a juſt Exception, to deny the Authority by which they ſate; for by what Au<g ref="char:EOLhyphen"/>thority was that Free Parliament called, or ſate, that voted in King <hi>Charles</hi> the Second? 'Tis prodigious Peeviſhneſs to re<g ref="char:EOLhyphen"/>quire a King's Preſence, or Commiſſion, when he is gone, and hath left all in Anarchy. In ſuch Confuſion, howſo<g ref="char:EOLhyphen"/>ever they come together, they are the Supremeſt Council of the Land. And yet by the Practice of all Nations, and the Reaſons of Peace and Settlement, the Eſtates of any Nation, being invited by a victorious and unreſiſted Power, may come together and Treat with him that thus calls them, tho' he hath no antecedent Authority (ſtrictly taken) to call them. So that the Churches Loyalty is to follow the Civil Judgment, concerning the Object of our Loyalty, and the Tenure of Sovereignty.</p>
+            </sp>
+            <sp>
+               <speaker>Dyſcher.</speaker>
+               <p>Suppoſing them then, in a ſtate of Confuſion, proper Judges of the Tenure of Sovereignty, which they determined abdicated by K. <hi>James;</hi> yet how could they pervert the Hereditary Law, and Rule of Succeſſion, that is Fundamental to this Crown?</p>
+            </sp>
+            <sp>
+               <speaker>Eucher.</speaker>
+               <p>I anſwer hereunto, That the general and ordina<g ref="char:EOLhyphen"/>ry Rule of Succeſſion to this Crown is Hereditary, and in this we are very happy againſt the dangerous Conſequences of ambitious Competitions: But in extraordinary Interrup<g ref="char:EOLhyphen"/>tions, and Convulſions of State, againſt the ordinary Courſe, our Laws and Conſtitutions do allow the Eſtates ſuch a King as can actually be had for the time being, till the ordinary Rule can be fairly recovered; and in this alſo we are equally Happy, if we would but know or ſee it.
+<pb n="5" facs="tcp:49698:6"/>This in Fact is evident from all the Hiſtory of our Suc<g ref="char:EOLhyphen"/>ceſſion. The Heirs Lineal have ſubmitted to it; the many Acts of Parliament, yet in force, made by Extra-lineal Kings, and the concurrent Judgment of our greateſt Lawyers, un<g ref="char:EOLhyphen"/>der Hereditary Kings, even ſince the Reformation, without any Remonſtrance of this Church, or any Hereditary King, are an Authentick Demonſtration hereof; and Biſhop <hi>Ove<g ref="char:EOLhyphen"/>ral</hi>'s Convocation-Book comes up to it. And my Opinion is, That in the late Oath of Allegiance, the word [Succeſſors] was added after [Heirs] on this very ſelf-ſame ground, That tho' Heirs, by the ordinary courſe, are the Legal Suc<g ref="char:EOLhyphen"/>ceſſors, yet others legally may ſucceed in caſes extraordina<g ref="char:EOLhyphen"/>ry; for I will not be ſo bold as to ſay, That the Oath re<g ref="char:EOLhyphen"/>quired Allegiance to unlawful Succeſſors. And the non<g ref="char:EOLhyphen"/>obſervance hereof hath been the occaſion of ſo many Pa<g ref="char:EOLhyphen"/>radoxes or Abſurdities in Diſcourſes upon this Point.</p>
+            </sp>
+            <sp>
+               <speaker>Dyſcher.</speaker>
+               <p>What! Can he be Legal that thruſts out the Le<g ref="char:EOLhyphen"/>gal King, or Legal Succeſſor?</p>
+            </sp>
+            <sp>
+               <speaker>Eucher.</speaker>
+               <p>One King by a Legal War may thruſt out him that, till he was thruſt out, was Legal King of his own Peo<g ref="char:EOLhyphen"/>ple: For the firſt offending Prince loſes not his Sovereignty to the offended merely by the offence, till actually thruſt out by the offended. And even an unjuſt Potentate, tho' he cannot, according to Legal Juſtice, out a King againſt whom he hath no legal Cauſe or Right of War; yet if he doth do ſo, and the Subject. People cannot help it, and he enforce himſelf upon the People for a New King; our Laws in this concur with the Laws and Practice of all Nations, in allowing our Eſtates to determine for us in ſuch Exigences, as is manifeſt in the long Contentions, and many Turns between the Houſes of <hi>York</hi> and <hi>Lancaſter;</hi> and the Sin ſhall lie only on the Injurious, and not on them that ſubmitted to an inevitable Fate of things. And yet in our caſe, upon the Ceſſion of K. <hi>James,</hi> the Hereditary Succeſſion was not violently broken, but altered by conſent of the next Heirs antecedent to the P. of <hi>Orange;</hi> which ſhews, that the two next Heirs judged that their Father had effectually deſerted the Crown, and were content, for the Preſervation of the Nation againſt the Power of <hi>France,</hi> to admit before them a Prince of the Blood, whoſe great Intereſt abroad, and whoſe perſonal Abilities of Conduct in Counſels, and War,
+<pb n="6" facs="tcp:49698:7"/>might be a Wall of Defence, as well to the true Royal Heirs, as to the Religion, Rights, and Liberties of the People. Up<g ref="char:EOLhyphen"/>on all which put together, I think we are bound by the old Laws, and Oath of Allegiance to the King, his Heirs, and Succeſſors, to pay Allegiance to K. <hi>William</hi> and Q. <hi>Mary;</hi> and that 'tis a breach of thoſe Laws and Oath to de<g ref="char:EOLhyphen"/>ny it them.</p>
+            </sp>
+            <sp>
+               <speaker>Dyſcher.</speaker>
+               <p>But ſuppoſe the Violence done to the rejected Prince be in it ſelf eſſentially unjuſt, and unnatural, and contrary to the Moral and Eternal Laws of God and Righteouſneſs; can humane Compacts ratifie a wrong, and juſtifie, or confirm what is eſſentially injurious? And muſt even the Prieſts of the moſt High God conſecrate and con<g ref="char:EOLhyphen"/>firm ſuch Rapes by Oath, and Religious Sponſions?</p>
+            </sp>
+            <sp>
+               <speaker>Eucher.</speaker>
+               <p>What would you inferr from hence?</p>
+            </sp>
+            <sp>
+               <speaker>Dyſcher.</speaker>
+               <p>Perhaps the deprived Biſhops and Clergy, conſi<g ref="char:EOLhyphen"/>dering the Relation Their preſent Majeſties ſtand in to K. <hi>James,</hi> and the Subjection due from all Natives in this Kingdom, as well in as out of Parliament, may think this a Breach of the Moral Laws of God, and not to be con<g ref="char:EOLhyphen"/>firmed by their Oath.</p>
+            </sp>
+            <sp>
+               <speaker>Eucher.</speaker>
+               <p>Then firſt I anſwer, The Internal Immorality of all Actions muſt be carefully diſtinguiſhed from the Civil Conſequences of them. Now the Iniquity is not to be juſti<g ref="char:EOLhyphen"/>fied, but the Legal Conſequences may be admitted, even up<g ref="char:EOLhyphen"/>on Oath. Wars, and Victories are many times unjuſt, yet they that ſuffer the Injury, lawfully ſubmit to the unlawful and injurious Demand of Submiſſion; as in Piracies, and other like Tyrannies. A Son by fraudulent Arts gets judg<g ref="char:EOLhyphen"/>ment in Law, and ſeizes his Fathers Eſtate and Body by Execution, and ſtarves his Father in Priſon. This Man's Immorality is damnable; yet the Judges, Sheriffs, and the other Officers are innocent, becauſe their Offices are not concerned in the Natural Relations, or Duties, but only in what is of Civil Importance, and Cogniſance. A Lord of a Mannor (to which adheres a Court Baron) is unjuſtly outed in Law by his Son, to the certain knowledge of ſe<g ref="char:EOLhyphen"/>veral Reverſioners. Theſe, when the Eſtates revert to them, muſt be ſworn to the Homage and Fealty of the Lord that is in by Law: Muſt theſe Men refuſe Homage, and loſe their Eſtates; or may they ſwear it to the actual Land-Lord,
+<pb n="7" facs="tcp:49698:7"/>who is viſibly Legal, though not honeſtly Right<g ref="char:EOLhyphen"/>ful? I for my Part muſt determine for the Swearing, ſince all Lords and Tenants muſt be admitted for ſuch, that are in by the Law, though at the ſame time Men are to deteſt the turpitude and baſeneſs of the Recovery. And in ſuch Caſes, the ejected Lord never blames the Tenants for Per<g ref="char:EOLhyphen"/>jury. Upon which clear Reſolution in the General, I will de<g ref="char:EOLhyphen"/>ſcend to the Particular before us; and ſuggeſt that Men ſhould be very careful of judging others, eſpecially Supream Powers, and much more how they act upon ſuch private Judg<g ref="char:EOLhyphen"/>ment, to the endangering the Peace of humane Societies. Which I offer, not that Their Majeſties Cauſe needs ſuch a Shade, but to oppoſe the Command of Chriſt againſt Men's nimble Cenſoriouſneſs. And indeed here it would be an hard Task, from the Fifth Commandment, to Charge K. <hi>William</hi> with ſubjection to K. <hi>James,</hi> either upon his be<g ref="char:EOLhyphen"/>ing his Nephew, or Son-in-law, were I willing to urge, or be urged upon that invidious Point. And the Princeſs of <hi>Orange</hi> was in Duty bound to follow her Husband's Fortune, Order, and Authority; even againſt the Will of her Fa<g ref="char:EOLhyphen"/>ther, and this with a more plenary Conſent, if ſhe judged her Husband's Cauſe to be juſt, ſhe violating no Decencies, due by the Fifth Commandment to her Father, which are conſiſtent with her Husband's Rights, and Intereſts, and in her rightful Power to perform. As for the inner Mo<g ref="char:EOLhyphen"/>tions and Counſels of Their Majeſties Minds, they are not of Human, much leſs of Civil Cogniſance, and 'tis fit for us to leave them to their proper Judge, that is, God. Tho' if the King's Deſign be what his Actions apparently tend to, to ſpend himſelf for the Delivery of Nations from Ty<g ref="char:EOLhyphen"/>ranny and Bondage, againſt all the Enemies of humane Li<g ref="char:EOLhyphen"/>berties and Peace, he is certainly the greateſt, and moſt deſirable, and will be by God's Bleſſing, the moſt Honou<g ref="char:EOLhyphen"/>rable and Glorious Prince, that perhaps ever aroſe ſince the Days of <hi>Conſtantine</hi> the <hi>Great:</hi> I am ſure we feel the Bleſ<g ref="char:EOLhyphen"/>ſings of his Care, for which many of us ungratefully tra<g ref="char:EOLhyphen"/>duce him. And ſo much for that. All that we are con<g ref="char:EOLhyphen"/>cerned in for our ſelves is, not whether in Moral Juſtice they might deſire or accept this Crown, but whether this Nation might, under its then Exigences, yield it them; or whether it being yielded them by the Publick Act of this
+<pb n="8" facs="tcp:49698:8"/>Nation, private Subjects may not, or ought not to acquieſce in this Settlement, and give aſſurance thereof by Oath, or otherwiſe; for if we might have thus yielded in thoſe Straits to an unrelated Prince, we may as well to the related; be<g ref="char:EOLhyphen"/>cauſe the Perſonal Relation affects not otherwiſe our Civils, the Settlement of which we muſt admit, if not as we could wiſh, yet as things will bear. And I ask you, whether in good earneſt you think no Settlement muſt be admitted, un<g ref="char:EOLhyphen"/>der Powers procured by breach of God's Commandments?</p>
+            </sp>
+            <sp>
+               <speaker>Dyſcher.</speaker>
+               <p>What if I ſhould ſay, No?</p>
+            </sp>
+            <sp>
+               <speaker>Eucher.</speaker>
+               <p>Then I will ſay, few, or no Changes of Govern<g ref="char:EOLhyphen"/>ment muſt be ſubmitted to in the whole World; which Perſwaſion, as it is oppoſite, perhaps, to the Firſt Intro<g ref="char:EOLhyphen"/>duction of Armed Powers, ſo it muſt afterward aſſert them <hi>de jure</hi> unchangeable. Since there is never any ſuch Change without the Breach of many Divine and Moral Precepts. Killing, Robbery, Deceit, Covetouſneſs, falſe Accuſations, Lyes; Pretences, Subornations, Perjuries, Treaſons, <hi>&amp;c.</hi> are the uſual Methods, and Introductories to ſuch Changes. And yet when Settled, all Ages, Heathen and Chriſtian, abide by them. By our Laws, though the next Heir to the Crown kill the King, (though his Natural Parent) he ſhall not be barred the Succeſſion by Inheritance, though by all moral Equity, and ſuppoſable Intentions of Royal Pa<g ref="char:EOLhyphen"/>rents (were there no poſitive Conſtitution herein) he ſhould be diſinherited.</p>
+            </sp>
+            <sp>
+               <speaker>Dyſcher.</speaker>
+               <p>But in ſuch Caſes, the King would be Dead, and all his Rights and Titles with him, and the Heir without Competitour. But in our Caſe 'tis, and 'twas far otherwiſe, the King being alive, and purſuing the Recovery of his own Dominions.</p>
+            </sp>
+            <sp>
+               <speaker>Eucher.</speaker>
+               <p>Then it is not the Breach of God's Command<g ref="char:EOLhyphen"/>ments that incapacitates the Prince of this Crown, but the Life and Contention of K. <hi>James.</hi> But if his Tenure be extinct, as it hath been publickly judged by this Nation, our Oath to him ceaſes, though he contends never ſo much for the Recovery.</p>
+            </sp>
+            <sp>
+               <speaker>Dyſcher.</speaker>
+               <p>But this new Oath obliges me to act unjuſtly againſt K. <hi>James</hi>'s Recovery, whereas the whole World knows this Crown to be his in Right.</p>
+            </sp>
+            <sp>
+               <speaker>Eucher.</speaker>
+               <p>That it was his, the World knows; but the
+<pb n="9" facs="tcp:49698:8"/>World is not ſo knowing that it is his, neither from the Moral Juſtice, nor Civil Forms of Law. The Queſtion of Juſtice depends upon the firſt Originals, Proceſs, and Iſſues of the War; and of this there is no Authentick Judge but God between the Two Princes; though as to us, this Nation hath juſtified K. <hi>William</hi>'s Cauſe, which is to con<g ref="char:EOLhyphen"/>clude upon us; and as to the Forms of Law, K. <hi>William</hi> is now legally Inveſted. I do not ſay theſe things bind K. <hi>James</hi> from endeavouring a Reſtitution, as being with<g ref="char:EOLhyphen"/>out the Power of them, never in Law ſubject to them; but they bind us to defend our ſelves and our preſent Gover<g ref="char:EOLhyphen"/>nours under this Settlement, with the Suffrage of the greateſt Laws of God, Reaſon and Nations.</p>
+            </sp>
+            <sp>
+               <speaker>Dyſcher.</speaker>
+               <p>But this Oath of Allegiance ſeems to imply an Aſſertion of Right to this Crown in K. <hi>William</hi> and Q <hi>Mary,</hi> ſince Allegiance follows the Right, and this you will yield to be a tender Point to be ſworn to.</p>
+            </sp>
+            <sp>
+               <speaker>Eucher.</speaker>
+               <p>But, Firſt, it is certain, that this Oath expreſſes no Form of Affirmation concerning Right, but is purely promiſſory of Allegiance to the Sovereigns actually Reg<g ref="char:EOLhyphen"/>nant. And it is certain, that the Eſtates in Parliament, im<g ref="char:EOLhyphen"/>poſing it, intended no more to be ſworn, ſince they rejected the Motions made for an Aſſertion of Right. And though that, and the enſuing Parliament, judged their Admiſſion of K. <hi>William</hi> and Q. <hi>Mary,</hi> to be in their Lawful Right, <hi>rebus ſic ſtantibus,</hi> yet they bound not us to ſwear ſo; but only upon Oath, to promiſe that Allegiance due by our Laws to Kings, thus actually admitted; which I here Re<g ref="char:EOLhyphen"/>mark, that you may not here Object the Intention of the Impoſer, to make us ſwear what they judged to be Right. And here alſo I muſt further advertiſe you, that the Courts Aſſigned to Adminiſter this Oath, being the Authentick Interpreters thereof, and the Impoſers Intention, never gave an Interpretation Affirmative of Right (that I ever heard of) when conſulted hereupon; but on the contrary, I am very well aſſured, that ſeveral Courts have given, and admitted ſuch Sences, as the moſt tender Recuſant might have ſworn to, and in which Men as Loyal as themſelves concurred.</p>
+            </sp>
+            <sp>
+               <speaker>Dyſcher.</speaker>
+               <p>The Laws and Judgments of Men many times permit, and require Iniquity, and the Prevarication of
+<pb n="10" facs="tcp:49698:9"/>Courts, in the admitting Sences not intended in the Oath, on purpoſe to elude it, is a mere mockery of God, Hu<g ref="char:EOLhyphen"/>mane Powers, and Mens Conſciences.</p>
+            </sp>
+            <sp>
+               <speaker>Eucher.</speaker>
+               <p>Whether Courts prevaricate in their Judgments, or no, private Perſons cannot judge to any Civil Effect or Obligation; and ſo what they determine muſt be taken for Law, till Condemned by a Superiour Court, or nulled by the Legiſlative. And as to their inward Sincerity, God a<g ref="char:EOLhyphen"/>lone is to be their Judge. But ſuppoſing the Courts may warp the Deſign of the Oath, and the Law, on purpoſe to eaſe tender Conſciences, what prevarication is there in theſe tender Conſciences, that Religiouſly took care to have an innocent Sence Authoritatively admitted, on which, and no other, they would take the Oath?</p>
+            </sp>
+            <sp>
+               <speaker>Dyſcher.</speaker>
+               <p>This was a colour pretended only to ſave their Eſtates; for if they took the Oath really, they took it in the Sence of the Impoſer, and not the feigned Intention, but if they did not take the Oath at all, then is the State beguiled by a Pretence, which is not agreeable to a Chri<g ref="char:EOLhyphen"/>ſtian, much leſs to Prieſtly Sincerity.</p>
+            </sp>
+            <sp>
+               <speaker>Eucher.</speaker>
+               <p>If theſe Men had made Reſervations in the Oath they took, Inſincerity might have been juſtly chargeable on them; but if they demanded of the Court the Impoſers Sence, and the Court gave an Innocent one; and they de<g ref="char:EOLhyphen"/>clared they took it in that Sence ſo given in Form of Law, and no other, they certainly did not prevaricate with the State; nay, it had been a Prevarication to have taken it in any other Sence, than what the Court had given. And if they really took not the Oath as the Parliament intended, they took it as directed by Their Majeſty's Judges, and could take it no otherwiſe; and if Their Majeſties by Their Courts declared their Sence in the paſſing the Act for the Oath in favour to all innocent and tender Conſci<g ref="char:EOLhyphen"/>ences, I hope it was no Inſincerity to accept that Lenity, and Eaſe, and at once to ſave their Stations, and their Con<g ref="char:EOLhyphen"/>ſciences, and the Publick Peace of Church and State.</p>
+            </sp>
+            <sp>
+               <speaker>Dyſcher.</speaker>
+               <p>But what if a Man be perſwaded of the Impiety of this whole Revolution, and thinks that the Vengeance of God will fall upon the Nation hereupon, can he in Piety ſwear himſelf a Party to thoſe Sins, on which he expects God's dreadful Judgments?</p>
+            </sp>
+            <sp>
+               <pb n="11" facs="tcp:49698:9"/>
+               <speaker>Eucher.</speaker>
+               <p>If Men's Minds be entangled in wrong Notions, they can act well no way, neither with, nor againſt their Perſwaſions. But then ſuch Men's Infirmities, how piti<g ref="char:EOLhyphen"/>able ſoever, muſt not obſtruct Publick Conſtitutions. Now if ſuch Perſwaſions be well grounded, there muſt be a Pub<g ref="char:EOLhyphen"/>lick Rule of Conſcience to juſtifie them. And here I de<g ref="char:EOLhyphen"/>mand, what Law of God manifeſtly makes it a Sin, to comport with Civil Powers, ſettled according to the Forms and Laws of Nations, though many Immoralities have led the way, and Preparations to ſuch Settlements? They, that act ſinfully, to introduce ſuch new Powers, have Cauſe to expect God's heavy Diſpleaſure but they that contribute no evil to the Change, but ſubmit to it, when publickly ſettled, are perhaps one ſort of the Meek, that ſhall inherit the Earth, in yielding that active Obedience, which St. <hi>Paul</hi> requires to the Powers or Authorities in being; and St. <hi>Peter</hi> to the Humane Conſtitution. And therefore were there no o<g ref="char:EOLhyphen"/>ther crying Sins of the Nation,<note place="margin">The <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, 1 <hi>Per.</hi> 2.13. Denotes the Acts of Settlement to be of Humane Law, Right, and Forms, though, the Authority of the Perſons thus Settled or Conſtituted be Divine: And 'tis very harſh to underſtand it for Mankind.</note> this peaceable yielding to Hu<g ref="char:EOLhyphen"/>mane Conſtitutions needs not be dreaded. So little ground is there for thoſe your Superſtitious Jealouſies.</p>
+            </sp>
+            <sp>
+               <speaker>Dyſcher.</speaker>
+               <p>'Tis eaſie for Sophiſtry to put fair Gloſſes upon foul: Matters; but if K. <hi>James</hi> ever return, theſe Recuſants will be able to make a better Plea ſon their Cauſe, than you will for yours. And though they may be Perſecuted again for their Religion; yet can they not ſuffer as Traitors, and Evil-doers. And herein they comfort themſelves, though they are for Conſcience ſake killed all the day long, and are counted as Sheep appointed to be ſlain. But you! What will you ſay, when it ſhall be demanded of you, by what Authority you transferred your Allegiance without his Will? When it ſhall be objected, That you were ſworn to him, not the Eſtates of this Realm; and he, not they, had the only Right of diſpoſing your Allegiance?</p>
+            </sp>
+            <sp>
+               <speaker>Eucher.</speaker>
+               <p>Upon ſuch a Turn as you mention, I grant you good Anſwers may have no Reception; for Swords and Guns have no Ears: But yet a good Anſwer may be given, to wit, That we had his Authentick Grant for ſo doing.</p>
+            </sp>
+            <sp>
+               <pb n="12" facs="tcp:49698:10"/>
+               <speaker>Dyſcher.</speaker>
+               <p>That is ſtrange.</p>
+            </sp>
+            <sp>
+               <speaker>Eucher.</speaker>
+               <p>Did not K. <hi>James,</hi> in his Declaration for Indul<g ref="char:EOLhyphen"/>gence, Diſpenſe with the Oaths of Allegiance and Supre<g ref="char:EOLhyphen"/>macy to all his Subjects?</p>
+            </sp>
+            <sp>
+               <speaker>Dyſcher.</speaker>
+               <p>That was an ineffectual and null Act in it ſelf, as being contrary to Law.</p>
+            </sp>
+            <sp>
+               <speaker>Eucher.</speaker>
+               <p>Muſt the Law then be the Rule of Civil Actions both in King and People?</p>
+            </sp>
+            <sp>
+               <speaker>Dyſcher.</speaker>
+               <p>It muſt ſo.</p>
+            </sp>
+            <sp>
+               <speaker>Eucher.</speaker>
+               <p>Was K. <hi>James</hi>'s Coronation Oath a Legal Act?</p>
+            </sp>
+            <sp>
+               <speaker>Dyſcher.</speaker>
+               <p>It was ſo.</p>
+            </sp>
+            <sp>
+               <speaker>Eucher.</speaker>
+               <p>Then by that he ſwore to aſſert unto this People their Laws, Rights, and Liberties. Which Laws and Li<g ref="char:EOLhyphen"/>berties do aſſign our Allegiance to the King for the time being, though extralineal. And if the Lineal Heir may hang me as a Traitor for breach of that Allegiance to an extralineal King, by which himſelf was a while excluded; whether this Law be equal, or no, (though I believe it is very equal) yet it is equal that the Subject ſhould not be hanged for obſerving that Law, by the ſame Prince, who may by the Law hang him for not obſerving it. And they that venture ſo much upon their Integrity to K. <hi>James,</hi> if they break the Laws of Allegiance to K. <hi>William,</hi> may be hanged by K. <hi>James</hi> as Traytors, when he returns, according to Law. A fine colour for Papiſts to diſpatch thoſe Proteſtants, that by their being intowered, blaſted all their fine Projects upon our Liberties and Religion.</p>
+            </sp>
+            <sp>
+               <speaker>Dyſch.</speaker>
+               <p>But will not this inferr Subjection due to <hi>O. C?</hi> was he not ſettled much more abſolutely, and ſtrongly than K. <hi>William?</hi> And yet we ſee upon the return of K. <hi>Charles</hi> the Second, all his Laws pronounced null, and all his Ad<g ref="char:EOLhyphen"/>herents liable to Puniſhment, and needing a Pardon. And thoſe Church-men were in the right, who refuſed the Engagement, though by your new Doctrines, they reſiſted the Ordinance of God in <hi>O. C.</hi> to their own Damnation.</p>
+            </sp>
+            <sp>
+               <speaker>Eucher.</speaker>
+               <p>To which I Reply, Firſt, That his Acts had no Legal Validity according to our Laws, becauſe he was not King, and no Allegiance by thoſe Laws was due to him. Nor yet had he any Legal Form of Settlement, according to the general Rules of Civil Laws. For meer Poſſeſſion by force of Arms is no Legal Eſtabliſhment in a Throne
+<pb n="13" facs="tcp:49698:10"/>by thoſe Laws, till it acquire a federal Admiſſion and Ho<g ref="char:EOLhyphen"/>mage in a Nation, either virtually by long Preſcription of Publick Accordance, or formally by an immediate and publick Act of Submiſſion by the Eſtates, or Repreſenta<g ref="char:EOLhyphen"/>tives of a Nation. Now as <hi>O. C.</hi> wanted the Plea of Pre<g ref="char:EOLhyphen"/>ſcription, ſo neither could, or did he pretend a National Contract, as having no Lord's Houſe, nor free Houſe of Commons. On the Sence of which Defect, he ſo earneſt<g ref="char:EOLhyphen"/>ly, but vainly, ſtruggled by Art and Force to compaſs it. So that all the Power of <hi>O. C.</hi> acquired no Form of Right, or Legal Settlement; and conſequently the Laws of Alle<g ref="char:EOLhyphen"/>giance to the Royal Heir, were ſtill in force and obliging; to which <hi>O. C.</hi> himſelf was by Law and Oath Subject; and being ſo, could not be Sovereign at the ſame time. Upon which occaſion I cannot but highly commend that Notion of Compact, (which you ſo frankly ſcout) in that it gives us Lawful Right to Repell Tyrants and Intruders, though it cannot palliate Treaſons againſt lawfully ſettled Princes. And for the further recommendation hereof, I could particularly ſhew, that it was the Form of Settlement in all the Kings of God's own People, admitted by God at their importunity, according to the then way and man<g ref="char:EOLhyphen"/>ner of the Nations: But this is a Digreſſion, and ſo I for<g ref="char:EOLhyphen"/>bear to ſay more upon it.</p>
+            </sp>
+            <sp>
+               <speaker>Dyſcher.</speaker>
+               <p>Well! Admitting theſe your Arguments to be true, and with you ſufficiently perſwaſive to Conformi<g ref="char:EOLhyphen"/>ty, what Inference do you hereupon draw againſt the Re<g ref="char:EOLhyphen"/>cuſants, who have other Notions to them convincing, on which they build their Practice?</p>
+            </sp>
+            <sp>
+               <speaker>Eucher.</speaker>
+               <p>Firſt, I inferr, that there is no ground for Recu<g ref="char:EOLhyphen"/>ſancy; and Secondly, much leſs for Separation from us; and our Publick Aſſemblies, from which we do not ex<g ref="char:EOLhyphen"/>clude you; and Laſtly, That the Church is not guilty of Sin, in admitting new Biſhops and Miniſters into the Places of the Deprived, conſidering the Authorities, Cau<g ref="char:EOLhyphen"/>ſes and Conſequences of things, and the Temper, with which the Church ſubmits to this Eccleſiaſtical Change.</p>
+            </sp>
+            <sp>
+               <speaker>Dyſcher.</speaker>
+               <p>The Grounds of Recuſancy to us ſeem real, and yours nothing but Shade and Varniſh: But Secondly, ad<g ref="char:EOLhyphen"/>mitting them to be true, yet not being obviouſly, but in<g ref="char:EOLhyphen"/>tricately ſo, they who cannot arrive to a Conviction by
+<pb n="14" facs="tcp:49698:11"/>them, are certainly bound not to joyn in thoſe Prayers, which recommend thoſe unto God for Sovereigns, whom we judge not ſuch, againſt him who is our Sovereign, but ranked among the Number of K. <hi>W</hi>'s. and Q. <hi>M</hi>'s. Ene<g ref="char:EOLhyphen"/>mies.</p>
+            </sp>
+            <sp>
+               <speaker>Eucher.</speaker>
+               <p>But how comes this Change about? The Prayers for K. <hi>William</hi> and Q. <hi>Mary</hi> were conſented to by all the Recuſant Biſhops, and by them (for their Officers without any Prohibition) ſent to the Clergy of every Dioceſs, and by them generally received. The Biſhops were preſent at them, directed their Clergy upon Conſultation to uſe them. And thus things ſtood till the day of their Suſpenſion. No blowing the Publick Trumpet againſt Perjury; no denun<g ref="char:EOLhyphen"/>ciation of <hi>Anathema</hi> againſt theſe Prayers; but a general calm and candid Conceſſion, in that diſputable Caſe to every Conſcience, to act upon its own beſt Light. How then comes it to paſs, that we are all of a ſudden Perjured, and Apoſtate, and yet have no Publick Inſtrument, or Means of Converſion or Conviction. For againſt this 'tis unworthy to object the danger of Perſecution. When the Souls of Men, and the Churches Integrity are concerned, there the Watchman ought not to wink, there the Men of God ought not to be ſilent, but firſt loudly forewarn, and after as loudly labour to reverſe the Evil. This is the more Rational, in that we do not ſeem <hi>ſine ratione inſanire,</hi> but have very momentous and weighty Reaſons for our Confor<g ref="char:EOLhyphen"/>mity, which will excuſe from wilful Perjury, and which are not refuted; though where our Apologiſts happen to trip, they are animadverted on with all uncharitable ſeverity. And as to the danger of Praying againſt K. <hi>James,</hi> 'tis cer<g ref="char:EOLhyphen"/>tain the Prayers expreſs him not; and if you Rank him among the Number of K. <hi>William</hi>'s Enemies, you may beſt know that, but we do not ſo; for an Enemy is one that deſigneth to injure a Man; and we are not ſure K. <hi>James</hi> doth ſo deſign againſt K. <hi>William;</hi> and yet if he doth, 'tis Lawful to Pray that K. <hi>William</hi> may therein vanquiſh, and overcome him; that is, defeat him in that injurious Deſign; for no more can be intended in theſe Prayers, for we Pray for no Man's, no King's Deſtruction, or Hurt, but for all Chriſtian King's, and Governours, even thoſe againſt whom we Wage open War.</p>
+            </sp>
+            <sp>
+               <pb n="15" facs="tcp:49698:11"/>
+               <speaker>Dyſcher.</speaker>
+               <p>But in the Service of the 29th of <hi>May</hi> there is a Prayer that voweth Allegiance to Their Majeſties K. <hi>William</hi> and Q. <hi>Mary,</hi> and how can we upon our Principles be preſent at that Prayer?</p>
+            </sp>
+            <sp>
+               <speaker>Eucher.</speaker>
+               <p>Then forbear to be preſent at it, tho' I have been by a good Author aſſured, That the Recuſant Biſhops did not at firſt ſtick at that, but that ſome gave Directions and Conſent to the uſe of it; and alſo, before their Suſpen<g ref="char:EOLhyphen"/>ſion, deputed Perſons to Adminiſter the Oath in the Ex<g ref="char:EOLhyphen"/>ecution of the Authorities, and Offices Epiſcopal thus de<g ref="char:EOLhyphen"/>puted; which muſt argue, that they did not think that Miniſtery unlawful, or (which God forbid us in the leaſt to ſuſpect) that themſelves were not ſincere.</p>
+            </sp>
+            <sp>
+               <speaker>Dyſcher.</speaker>
+               <p>You muſt allow Men to retract their Errors.</p>
+            </sp>
+            <sp>
+               <speaker>Eucher.</speaker>
+               <p>And expect the Reaſons of ſuch Change, and not inſtead thereof an inexorable Cenſure upon us, for no o<g ref="char:EOLhyphen"/>ther Actions than what themſelves deliberately and long countenanced and authoriſed; and in which we can yet ſee no harm, leſt by condemning us to Penitence, they put themſelves into the ſame Crime, and under the ſame Expiation.</p>
+            </sp>
+            <sp>
+               <speaker>Dyſcher.</speaker>
+               <p>But, to come to the main, how do you acquit your ſelves from Schiſm, in rejecting your Fathers and Bre<g ref="char:EOLhyphen"/>thren, driven by the State from their Stations in the Church, for mere Conſcience ſake? For admitting them to be in Error, the Error is in Points of Law, and the Ob<g ref="char:EOLhyphen"/>ligations of Statutes, and the Oaths enacted by them, in which the Judgments of Lawyers vary with the turns of State. Have they done any poſitive Injury? Have they violated their Innocency, or ſtained the Sanctity of their Order, that they ſhould be caſt out as Reprobate? Is Er<g ref="char:EOLhyphen"/>ror, in entangled Laws, Hereſie; and fear of Perjury, and the appearance of Evil, Infidelity? Such Judgment, I truſt, will not paſs upon them in the Day when God ſhall gather and bind up his Jewels.</p>
+            </sp>
+            <sp>
+               <speaker>Eucher.</speaker>
+               <p>The Temper, with which the Church admits this, is Mild and Compaſſionate, and concurrs not without re<g ref="char:EOLhyphen"/>luctancy, and great ſorrow, and ſo is not in that reſpect Schiſmatical. Nor doth the Church judge their Conſci<g ref="char:EOLhyphen"/>ences towards God, but with great deference, and Charity hopes and thinks the beſt; which moderation I wiſh you
+<pb n="16" facs="tcp:49698:12"/>could imitate under your preſent ſtate. But this, I confeſs, we think your Principles in their Practical Conſequences (conſidering the inflamable Tempers of Men) as reſented by the State, to be dangerous, not only in reſpect of Trou<g ref="char:EOLhyphen"/>ble, but of Sin, even Schiſm, and Sedition, both in Church, and State, by the breaking of the one againſt the other. Which Dangers, when the State preſſes the Church to re<g ref="char:EOLhyphen"/>move, by exauctorating the Patrons of thoſe dangerous Principles and Practices, how can the Church, that thinks this Demand of the State juſt, and rational, and neceſſary to be yielded to, deny the Demand? For, in caſes of dan<g ref="char:EOLhyphen"/>ger from Mens Principles, the Church hath ever been wont to judge; not upon Mens Perſonal Morals only, or chiefly, but the Soundneſs and Tendency of the Perſuaſions. In which whatſoever is contrary to ſound Judgment and Uni<g ref="char:EOLhyphen"/>ty muſt be condemned, and the Fautors exauctorated, how Innocent ſoever their Perſonal Morals be. For even ſome Mens Principles may be too rigorouſly Pious, and have no other Fault, and yet in ſuch the Church diſcards the non-returning Patrons of them, when they grow up into a Flame. The Montaniſtical, Novatian, Meletian, Donatiſt, and Luciferian Rigours (not to mention ſeveral others) beguiled many Pious Men out of their Order, and out of the Church: Her Prudence always taking Care to impoſe no Snare nor Yoke upon Mens Conſciences, above what the Equity of the Divine Laws requires. And ſure I am, that your Maxims of Loyalty are ſuch as the State of Man<g ref="char:EOLhyphen"/>kind admits not of, and are repugnant to all Civil Com<g ref="char:EOLhyphen"/>poſures; and therefore diſſonant to the Laws of Chri<g ref="char:EOLhyphen"/>ſtianity. I will not here digreſs into Particulars; but ſup<g ref="char:EOLhyphen"/>poſing our Church, that conforms, thus to judge of your Principles, can you think ſhe ought to aſſert you, in pub<g ref="char:EOLhyphen"/>lick Conduct of Mens Conſciences, to the Diſſolution of our Peace againſt the Command of the Sovereign Powers, that are the Guardians of it? The publick Judgment re<g ref="char:EOLhyphen"/>gards the Tendencies and Conſequences of Mens avowed Opinions, and promotes, permits, or inhibits their Courſe according as it ſees them uſeful, tolerable, or dangerous in the Publick Weal; and particular Perſons muſt be content to be bounded in their Actions and Authorities by theſe Rules and Meaſures, or elſe farewell all publick Order and
+<pb n="17" facs="tcp:49698:12"/>Peace. For ſuppoſing, for once, that all Recuſant Biſhops and Clergy had been freely left to their own ſeveral Sences, Prayers, and Sermons in this preſent State, ſome would have prayed, and preached up K. <hi>James,</hi> others K. <hi>William,</hi> others neither. Divers Pariſhes, divers Prayers, divers So<g ref="char:EOLhyphen"/>vereigns; in the ſame Churches ſome would oppoſe, and ſome applaud the Miniſter with all manner of Tumults and Diſorders. And, even in thoſe Liturgies, where no King were named, the Prayers would be contrary under one common Equivocation; Biſhop againſt Biſhop, Clergy againſt Clergy, Prayers againſt Prayers, Sermons againſt Sermons, and People againſt People in the Publick Acts and Duties of Religion. And hence muſt follow a total breach of Sacred Union, which would ſpeedily paſs into a Civil Sedition. So neceſſary it is to ſet Rules of Unifor<g ref="char:EOLhyphen"/>mity, which thoſe that will not ſtand to, may (if not muſt) juſtly be exauctorated.</p>
+            </sp>
+            <sp>
+               <speaker>Dyſcher.</speaker>
+               <p>Why then, it ſeems, you think our Deprivations not only Lawful, but Neceſſary to avoid Schiſm; which we all the while charge upon you?</p>
+            </sp>
+            <sp>
+               <speaker>Eucher.</speaker>
+               <p>Hold a little! I do not give you my own Judg<g ref="char:EOLhyphen"/>ment, nor yet ſimply the Sence of the Church upon the Matter antecedent to, and abſtracted from the Will of the State. But this is the Sence of the Church, That ſince the State, to avoid the above mentioned Confuſions, decrees the Recuſants to be deprived, She, that thinks the Deprivation ſimply Lawful, doth, upon Demand of the Civil Powers, think it neceſſary; for that the Church muſt yield to the State all juſt Security to Publick Peace and Order; which cannot be, if ſhe aſſert Men in Authority, whoſe Principles muſt deſtroy it.</p>
+            </sp>
+            <sp>
+               <speaker>Dyſcher.</speaker>
+               <p>But what will you think, at loweſt, equal, if the State had not exacted Deprivation?</p>
+            </sp>
+            <sp>
+               <speaker>Eucher.</speaker>
+               <p>That's no great matter what I think, yet between you and me I will draw out my Soul to you. Firſt, I ſhould have thought it rational, that all Recuſants ſhould promiſe upon Oath not to diſturb the State by Word or Deed, but to abide by the Laws and Adminiſtrations of the Government. Secondly, That they would Cenſure no Man for Conformity. Thirdly, That by themſelves, or others, they ſhould execute the Offices of their Function according
+<pb n="18" facs="tcp:49698:13"/>to the preſent Laws, as moſt of the ſuſpended Clergy did by their Curates and Biſhops, before the Day of Suſpenſion, by their Deputies. And, upon voluntary Breach hereof, to be deprived by an Eccleſiaſtical Judgment, authorized by Law. For Order, Peace, and Uniformity there muſt be in all, eſpe<g ref="char:EOLhyphen"/>cially Religious Societies; and they that will not ſecure it, muſt be exauctorated, and not be permitted a Publick Power or Advantage to promote any kind of Confuſion.</p>
+            </sp>
+            <sp>
+               <speaker>Dyſcher.</speaker>
+               <p>Well! But admitting the Recuſancy to inferr an Incapacity in the Circumſtances, and under the Reſtrictions that preſs the Church, yet they are condemned by an in<g ref="char:EOLhyphen"/>competent Lay-Power, in a Spiritual and Hierarchical Cenſure; to which, if we ſubmit as Right, or Regular, we then give up all to Eraſtianiſm, and a Biſhop ſhall be but an Eccleſiaſtical Juſtice, and a Prieſt a Church-Conſtable. To prevent which we are to ſtick to our Principles, that the Judicial Power of Civil Authority is of Secular Vertue and Operation only; but that the Spiritual Cenſures are not from the Swords of Princes, but Apoſtolick Deſcent and Original.</p>
+            </sp>
+            <sp>
+               <speaker>Eucher.</speaker>
+               <p>What ſort of Cenſure do you hold Deprivation to be?</p>
+            </sp>
+            <sp>
+               <speaker>Dyſcher.</speaker>
+               <p>As to the Eſſentials of it conſiſting in a Divorce, and Exciſſion of the Prieſts Relation, Care, and Offices to the Souls of the People, 'tis purely a Spiritual Cenſure, in<g ref="char:EOLhyphen"/>herent only in Eccleſiaſtical Judicatories.</p>
+            </sp>
+            <sp>
+               <speaker>Eucher.</speaker>
+               <p>But you cannot forget, that the Church is incor<g ref="char:EOLhyphen"/>porated into the State, from which it derives all its Tem<g ref="char:EOLhyphen"/>poralities; which are ſo intwiſted with the Spiritual Functi<g ref="char:EOLhyphen"/>ons, by Mutual Conſtitution and Concord of Church and State, that they cannot be ſeparated. Now hereupon the State may judge in ſuch Matters, which appertain to it in the Church, having never quitted that Power to the Church only.</p>
+            </sp>
+            <sp>
+               <speaker>Dyſcher.</speaker>
+               <p>'Tis true, the Church Offices are thus concorpo<g ref="char:EOLhyphen"/>rated with ſeveral Secular External Concomitants; but the Acceſſory is to follow, not to lead the Principal; and 'tis a bad Incorporation wherein the Body muſt Enſlave; and not be Subordinate to the Soul. I hope the Church in this Accord did not act prophanely, like <hi>Eſau;</hi> ſell her Birth<g ref="char:EOLhyphen"/>right for a Diſh of Portage; her Spirituals to a Foreign
+<pb n="19" facs="tcp:49698:13"/>Power for a few Secular Trifles. Rather therefore let the State reſume her own, and leave the Church to her own lovely Simplicity, than uſurp upon the Inheritance of our Lord.</p>
+            </sp>
+            <sp>
+               <speaker>Eucher.</speaker>
+               <p>Will you deny all Lay-Perſons a Right in all Spi<g ref="char:EOLhyphen"/>rituals?</p>
+            </sp>
+            <sp>
+               <speaker>Dyſcher.</speaker>
+               <p>In all Spiritual Authorities.</p>
+            </sp>
+            <sp>
+               <speaker>Eucher.</speaker>
+               <p>Pleaſe you to define the Act of a Spiritual De<g ref="char:EOLhyphen"/>privation.</p>
+            </sp>
+            <sp>
+               <speaker>Dyſcher.</speaker>
+               <p>Deprivation is the Effectual and Total Separa<g ref="char:EOLhyphen"/>tion of a Spiritual Perſon from his Charge, ſo as to make way for the Introduction of another.</p>
+            </sp>
+            <sp>
+               <speaker>Eucher.</speaker>
+               <p>Is the Intereſt only of the Prieſts concerned in the Spiritual Charge, or are the Souls of the People alſo intereſted in the Relation?</p>
+            </sp>
+            <sp>
+               <speaker>Dyſcher.</speaker>
+               <p>No doubt the Intereſt, as well as the Relation is Mutual.</p>
+            </sp>
+            <sp>
+               <speaker>Eucher.</speaker>
+               <p>Are there any Cauſes which may diſſolve this Relation, and vacate the Charge?</p>
+            </sp>
+            <sp>
+               <speaker>Dyſcher.</speaker>
+               <p>Yes; all Flagitious and Peſtilential Sins, as Apo<g ref="char:EOLhyphen"/>ſtaſie, Hereſie, Schiſm, <hi>&amp;c.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Eucher.</speaker>
+               <p>Upon whom muſt the Puniſhment of Separation fall?</p>
+            </sp>
+            <sp>
+               <speaker>Dyſcher.</speaker>
+               <p>Upon the Guilty.</p>
+            </sp>
+            <sp>
+               <speaker>Eucher.</speaker>
+               <p>Who muſt Execute it?</p>
+            </sp>
+            <sp>
+               <speaker>Dyſcher.</speaker>
+               <p>The Eccleſiaſtical Judge.</p>
+            </sp>
+            <sp>
+               <speaker>Eucher.</speaker>
+               <p>But what if he be the Perſon Guilty?</p>
+            </sp>
+            <sp>
+               <speaker>Dyſcher.</speaker>
+               <p>Then is he to be deprived by his Superiors.</p>
+            </sp>
+            <sp>
+               <speaker>Eucher.</speaker>
+               <p>What if he hath none?</p>
+            </sp>
+            <sp>
+               <speaker>Dyſcher.</speaker>
+               <p>Then by a Synod.</p>
+            </sp>
+            <sp>
+               <speaker>Eucher.</speaker>
+               <p>What if the Synod is to be called by him, or are confederate with him?</p>
+            </sp>
+            <sp>
+               <speaker>Dyſcher.</speaker>
+               <p>Then muſt they be left to God.</p>
+            </sp>
+            <sp>
+               <speaker>Eucher.</speaker>
+               <p>But may not the Clergy and People, in the mean time, Separate from his Authority, and his Commu<g ref="char:EOLhyphen"/>nion, if he from the Chair recommend, or enforce his Corruptions? or muſt they be bound to be humbly preſent at all his prophane Miniſteries?</p>
+            </sp>
+            <sp>
+               <speaker>Dyſcher.</speaker>
+               <p>I yield they may go off: But who ſhall judge upon the Cauſe?</p>
+            </sp>
+            <sp>
+               <pb n="20" facs="tcp:49698:14"/>
+               <speaker>Eucher.</speaker>
+               <p>If there be no other Superior Judge, then God is to be appealed to; and in the mean time they muſt have a judgment of Conſcience and Diſcretion for themſelves, what to do in ſuch incorrigible Diſorders.</p>
+            </sp>
+            <sp>
+               <speaker>Dyſcher.</speaker>
+               <p>Right enough! But this judgment of Conſcience is not a judgment of Authority, which is neceſſary to a total Separation, Deprivation, and Vacancy.</p>
+            </sp>
+            <sp>
+               <speaker>Eucher.</speaker>
+               <p>Is it Cauſe enough to Separate, and to complain to other untainted and Social Biſhops of co-ordinate Churches, for Relief againſt the Spiritual Impoſtor?</p>
+            </sp>
+            <sp>
+               <speaker>Dyſcher.</speaker>
+               <p>I muſt grant that, ſince this is the Original way of detecting, and bringing Heretical Biſhops to Eccleſiaſti<g ref="char:EOLhyphen"/>cal Order, or Cenſure; as is evident from the moſt Ancient Church-Hiſtories.</p>
+            </sp>
+            <sp>
+               <speaker>Eucher.</speaker>
+               <p>What Relief can Social Biſhops, or Co-ordinate Churches give in this caſe?</p>
+            </sp>
+            <sp>
+               <speaker>Dyſcher.</speaker>
+               <p>If they cannot Reform, they may Condemn and Expel the Impoſtor.</p>
+            </sp>
+            <sp>
+               <speaker>Eucher.</speaker>
+               <p>Have Social Biſhops, and Co-ordinate Churches any Juriſdiction over each other?</p>
+            </sp>
+            <sp>
+               <speaker>Dyſcher.</speaker>
+               <p>What if they have not?</p>
+            </sp>
+            <sp>
+               <speaker>Eucher.</speaker>
+               <p>Then their Sentence is not of Authority, but only Conſcience and Diſcretion, and of no more Validity than that of the abuſed Laity and Clergy.</p>
+            </sp>
+            <sp>
+               <speaker>Dyſcher.</speaker>
+               <p>Well! How do you determine herein?</p>
+            </sp>
+            <sp>
+               <speaker>Eucher.</speaker>
+               <p>I judge, that the People by judgment of Con<g ref="char:EOLhyphen"/>ſcience for their own Salvation, and the Churches Peace, may Separate from an Impoſturous Biſhop, and addreſs to other Social Biſhops to conſecrate them another, which they by the like judgment of Conſcience, without proper Juriſdiction, may do upon the Notoriety and Incorrigible<g ref="char:EOLhyphen"/>neſs of the Evil. And this was very often and conſtantly done in the Primitive Ages; and aſſerted for Right and Juſt by the <hi>African</hi> Biſhops, in the Caſes of the two Churches of <hi>Aſturica</hi> and <hi>Emerita,</hi> in their Epiſtle extant, the 68 a<g ref="char:EOLhyphen"/>mong St. <hi>Cyprian</hi>'s Epiſtles, concerning the Expulſion of <hi>Baſilides</hi> and <hi>Martialis.</hi> For the Church is a great Body, whoſe Health ſubſiſts by cutting off all putrid Members; in which all the Members are unanimouſly to contribute: And if they, that ordinarily ſhould thus remove the Con<g ref="char:EOLhyphen"/>tagion, will not, they, that can, may, for the common Pre<g ref="char:EOLhyphen"/>ſervation
+<pb n="21" facs="tcp:49698:14"/>of themſelves and the whole Body. I grant you, indeed, that a proper Act of Spiritual Juriſdiction, as the Power of the Keys, Ordination, Degradation, belongs only to the Eccleſiaſtical Governors, and are incommunica<g ref="char:EOLhyphen"/>ble to the Laity: But it appears, that the Separation or Rejection of a Biſhop, may, on juſt Reaſons, be Legally executed by thoſe, that have no Juriſdiction; and the Recti<g ref="char:EOLhyphen"/>tude, or Obliquity of ſuch Separations is to be judged, not upon the Point of Authority, but of Merit. In all <hi>Scy<g ref="char:EOLhyphen"/>thia</hi> there was but one Biſhop: Now, ſuppoſing him an open Heretick or Idolater, who ſhould deprive him? Might not the People renounce him, and ſend to other Chriſtian Pro<g ref="char:EOLhyphen"/>vinces to conſecrate, or ſend them another? And might not the Prince juſtly eject him, and require his People to concurr in it for a new Succeſſor?</p>
+            </sp>
+            <sp>
+               <speaker>Dyſcher.</speaker>
+               <p>But 'tis not the People, as a Church, in our Caſe do thus reject their Paſtors for Irregularity, but the Depri<g ref="char:EOLhyphen"/>vation is an Act of Civil State as ſuch; ſo that theſe In<g ref="char:EOLhyphen"/>ſtances and Allegations of yours come not up to us. For they acted as Chriſtians in the Right of Souls and Churches; this is an Act of the Civil Power as ſuch, and that for the pretended Security of Civil Intereſts. Now what Right hath the Temporal Sword to act in Spirituals, and Matters purely Chriſtian and Religious?</p>
+            </sp>
+            <sp>
+               <speaker>Eucher.</speaker>
+               <p>Do not you remember, that our Church aſcribes ſuch a Power to our Kings in Eccleſiaſticals, as of Right appertained to, and was uſed by godly Kings of God's own People, recorded in Holy Scripture? Which teacheth us that, as <hi>David</hi> inſtituted Holy Offices in the Choir, not required by the Law of <hi>Moſes,</hi> ſo <hi>Solomon</hi> deprived <hi>Abia<g ref="char:EOLhyphen"/>thar</hi> of the High Prieſthood, upon a provocation merely in Civils.</p>
+            </sp>
+            <sp>
+               <speaker>Dyſcher.</speaker>
+               <p>To this I have many things to reply, but I will only touch thoſe that are moſt pertinent to our Caſe. Firſt, That the whole Inſtitution of the <hi>Levitical</hi> Law was not of a Spiritual, but Carnal Sanctity, yielded them by God, ſomewhat in oppoſition, and ſomewhat in conformi<g ref="char:EOLhyphen"/>ty to the <hi>Aegyptian,</hi> or other Foreign Religions; among whom the Prieſthood had been long ſubjected to, and per<g ref="char:EOLhyphen"/>haps firſt inſtituted by the Scepter. And herein the Su<g ref="char:EOLhyphen"/>preme Judgments in Civils upon the Law, and Oracular
+<pb n="22" facs="tcp:49698:15"/>Reſponſes on Conſultation about Peace, War, and Tempo<g ref="char:EOLhyphen"/>ral Actions, and Succeſſes, were Eſſential to the Authority of the Pontificate. And yet we find this High Prieſt not ſubject to any Ordinary Power, till Kings were alſo given this People after the manner of the Nations; among whom the Mitre was ſubject to the Crown. All which, put to<g ref="char:EOLhyphen"/>gether, makes <hi>Abiathar</hi>'s Deprivation by a Temporal Power under that Conſtitution, Legal: But from the beginning it was not ſo. Then there were Prieſts, who, till the Flood, had the Government of the World without any Civil or Military Power; and that Prieſthood was in all its Inten<g ref="char:EOLhyphen"/>tions Spiritual. So that when our Saviour came not only to Reſtore, but even to Refine upon the Primitive Rules, he reſtored the Prieſthood from Vaſſalage, and founded his Hierarchy not in Princes, but Apoſtles; not in armed, but in unarmed Powers.</p>
+               <p>Secondly, King <hi>Solomon</hi> did not properly and judicially deprive <hi>Abiathar</hi> of the High Prieſthood, but only com<g ref="char:EOLhyphen"/>manded, or required him to quit it on pain of death. For thus the words run, 1 <hi>Kings</hi> 2.26. <hi>And unto Abiathar the priest ſaid the king, Get thee to thy fields at Anathoth, for thou art a man of death: But this day I will not put thee to death, becauſe,</hi> &amp;c. Verſe 27. <hi>And Solomon thruſt out Abiathar from being prieſt unto the Lord.</hi> The LXXII render the 26 Verſe thus; <hi>Get thee to Anathoth to thy field, for thou art a man of death in this very day, but I will not put thee to death,</hi> &amp;c. <hi>A man of death,</hi> our Tranſlation renders, <hi>worthy of death;</hi> but the LXXII render the words not ſo much ſignificative of Merit, as a menace according to ſuch a Paraphraſe: <hi>Get off to Anathoth to thy field, (for [elſe] thou art a man of death this very day) and I will not put thee to death.</hi> So that <hi>Abia<g ref="char:EOLhyphen"/>thar</hi> here was put to his Option, whether he would with diſhonour retire from his Office, or ſuffer Death; this latter being in the Rightful Power of the King, if <hi>Abiathar</hi> would not yield in the former. So that <hi>Abiathar</hi>'s Prieſthood de<g ref="char:EOLhyphen"/>termined by his own voluntary Ceſſion, not the King's Ec<g ref="char:EOLhyphen"/>cleſiaſtical Cenſure.</p>
+               <p>Thirdly, <hi>Abiathar</hi> was not guilty of meer harmleſs and inſeparable Errour, as our ejected Biſhops and Clergy (if in an Errour) muſt in Juſtice and Charity be ſuppoſed to be; but of wilful, active, and actual Rebellion, againſt God,
+<pb n="23" facs="tcp:49698:15"/>and <hi>David,</hi> both which had before engaged and fixed the Succeſſion in <hi>Solomon,</hi> and ſo he could have no Plea or Ex<g ref="char:EOLhyphen"/>cuſe of Errour, or Miſtake; for which Cauſe he ſilently ſubmits to his Fate without Apology.</p>
+            </sp>
+            <sp>
+               <speaker>Eucher.</speaker>
+               <p>But did not K. <hi>Solomon</hi> ſubſtitute <hi>Zadok</hi> in his ſtead, who was not the Lineal Succeſſour in the Line of <hi>Abiathar?</hi> And was not this as Spiritual and Eccleſiaſtical an Act as poſſibly could be miniſtred in that Church, to which the King's Subſtituting Biſhops in the room of the De<g ref="char:EOLhyphen"/>prived ſeems Parallel?</p>
+            </sp>
+            <sp>
+               <speaker>Dyſcher.</speaker>
+               <p>When a Biſhoprick is Legally Vacant, we ad<g ref="char:EOLhyphen"/>mit the King's Right of Nominating a Succeſſour; but we look upon his Deprivations to be Nullities, and you have not proved <hi>Abiathar</hi> out by merely ſuch a Depriva<g ref="char:EOLhyphen"/>tion. But however, neither is <hi>Zadok</hi>'s Caſe Parallel; who after <hi>Abiathar</hi>'s Ceſſion came in, in Right of his own Inheritance, not the King's Donation. For you muſt Note, that <hi>Zadok</hi> was the Primate of the Houſe of <hi>Eleazar,</hi> in whoſe Line was the Legal Seat, and Original Right of the Pontificate; but <hi>Abiathar</hi> was of the Line of <hi>Ithamar,</hi> and he and his Progenitors had come into the High-Prieſt<g ref="char:EOLhyphen"/>hood, contrary to the firſt Fundamental Rule and Law of Succeſſion. Now when <hi>Abiathar</hi> quitted the High-Prieſt<g ref="char:EOLhyphen"/>hood, he quitted it for himſelf and his Poſterity, who had no Claim thereto Originally Legal; whence it reverted of courſe to the Houſe of <hi>Eleazar,</hi> and therein to <hi>Zadok,</hi> without any Title from the King.</p>
+            </sp>
+            <sp>
+               <speaker>Eucher.</speaker>
+               <p>But from hence I inferr, that not only in Times of Subjection to Heathen Powers, but even before they had any Kings in <hi>Iſrael,</hi> the Legal and Eccleſiaſtical Rule of Succeſſion to that Pontificate had been broken, and an<g ref="char:EOLhyphen"/>other Conſtitution fixed, without any Schiſm in the Sub<g ref="char:EOLhyphen"/>miſſion of the People. For thus <hi>Eli</hi> and his Poſterity, though of the Houſe of <hi>Ithaman,</hi> enjoyed it againſt all the Houſe of <hi>Eleazar,</hi> to whoſe Primate however, by the Law, it did belong. And hence I Argue, That though Biſhops be unduly put into the Place of others, unduly deprived, the People incur no Schiſm by ſubmiſſion to the In<g ref="char:EOLhyphen"/>truder.</p>
+            </sp>
+            <sp>
+               <speaker>Dyſcher.</speaker>
+               <p>I beg your Pardon, Brother <hi>Eucheres,</hi> in this Point, ſince that Rule of Succeſſion was capable of excep<g ref="char:EOLhyphen"/>tion<pb n="24" facs="tcp:49698:16"/>in Caſes of Uncleanneſs, Defect, or other Irregulari<g ref="char:EOLhyphen"/>ties. And further, God, that made that Rule, was not himſelf bound by it, but had ſtill a reſerved Liberty and Authority of altering it: And further, This Rule, did in all probability, permit a voluntary Ceſſion or Reſignation; ſo far at leaſt, that thereupon the Pontificate might change its Subject, though the Reſignation, or Ceſſion, were a Sin of Profaneneſs. Now ſome one of theſe Cauſes did moſt probably intervene to the change from <hi>Eleazar</hi>'s Line to <hi>Ithamar</hi>'s; and from 1 <hi>Sam.</hi> 2.30. it ſhould be founded in God's Determination. But hence it follows not, that a Se<g ref="char:EOLhyphen"/>cular Power can pervert a Divine Rule, and Ratifie an oppoſite Conſtitution. What was done in the Age of the <hi>Maccabees,</hi> and afterward by Secular Powers, againſt the Legal Succeſſion of the Pontificate, as ſometimes it might be ex<g ref="char:EOLhyphen"/>cuſed for want of the Lineal Heirs or Genealogies; and ſometimes Condemned for Bribery and Uſurpation, was yet admitted and ratified, on the <hi>poſt</hi> Fact by God; in giving thoſe Intruders the Spirit of Prophecy, <hi>Joh.</hi> 11.51. But this cannot argue for a Validity, if the Lineal Heir had been known, preſent and capable, and the In<g ref="char:EOLhyphen"/>truder not confirmed by God, the Founder of that Dig<g ref="char:EOLhyphen"/>nity. And I muſt further Remark, that theſe Intruſions, though thus admitted by God, were Signs of a broken Church and State, haſtning to its laſt Diſſolution, and ſo no juſt Precedent for the Chriſtian Church to follow, which is to continue to the End of the World, except we muſt yield to Methods of Violation, that lead to our Ex<g ref="char:EOLhyphen"/>tinction.</p>
+            </sp>
+            <sp>
+               <speaker>Eucher.</speaker>
+               <p>Since then you are ſo hard to be moved by Scrip<g ref="char:EOLhyphen"/>ture Inſtances, what think you of the Appeal, which <hi>Conſtantine</hi> admitted from the Party of <hi>Donatus,</hi> againſt <hi>Cecilian,</hi> after ſeveral Eccleſiaſtical Judgments, to which he added his own final Sentence?</p>
+            </sp>
+            <sp>
+               <speaker>Dyſcher.</speaker>
+               <p>But ſurely <hi>Conſtantine</hi> did not admit this Ap<g ref="char:EOLhyphen"/>peal, with a Deſign to paſs a Spiritual Cenſure himſelf on the Offenders, but to Eſtabliſh Juſtice in Peace, by methods properly Imperial, if he ſhould find the paſt Acts Eccleſi<g ref="char:EOLhyphen"/>aſtical inſufficient thereunto. And to pre-occupate you, the ſame I ſay of <hi>Athanaſius</hi> his Appeal to the ſame Emperor, from the Council of <hi>Tyre:</hi> For <hi>Athanaſius,</hi> in Matters of
+<pb n="25" facs="tcp:49698:16"/>Faith, expreſly denies Emperors proper Judges; and he has other Side-men with him therein among the Fathers.</p>
+            </sp>
+            <sp>
+               <speaker>Eucher.</speaker>
+               <p>But in that Council <hi>Athanaſius</hi> was Condemned, not for Faith, but for pretended Immoralities; and in theſe Diſcuſſions, all Wiſe Men may be made Judges, and Civil Powers are fit to be made ſuch, or rather are ſuch, in the Right of their Civil Station; and this <hi>Athanaſius</hi> muſt plain<g ref="char:EOLhyphen"/>ly own in this Appeal.</p>
+            </sp>
+            <sp>
+               <speaker>Dyſcher.</speaker>
+               <p>But this doth not hit the Point; nor doth it in<g ref="char:EOLhyphen"/>ſert, that <hi>Athanaſius</hi> believed the Emperour, being yet un<g ref="char:EOLhyphen"/>baptized, could himſelf either paſs, or reſcind a Spiritual Cenſure, and that effectually; but he did thus Appeal, ei<g ref="char:EOLhyphen"/>ther that the Emperour might puniſh the Offenders Impe<g ref="char:EOLhyphen"/>rially, or call a greater and more equal Synod for a Re<g ref="char:EOLhyphen"/>hearing, which afterward was obtained at <hi>Sardica.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Eucher.</speaker>
+               <p>But if the Temporal Powers, merely as ſuch, cannot directly paſs an Eccleſiaſtical or Spiritual Cenſure; yet all the neceſſary Externals to Sacred Offices, as Time, and Place, <hi>&amp;c.</hi> are in their diſpoſal; ſo that they may take away our Churches, Maintenance, Leiſure, Liberty, and Place for Publick Aſſemblies, which amounts to all the Effects of a Judicial Deprivation; and this perhaps is the only Power claimed by our Kings in this, and other like Acts for Deprivation or Suſpenſion.</p>
+            </sp>
+            <sp>
+               <speaker>Dyſcher.</speaker>
+               <p>This indeed by actual Force they may do; but this doth not diſſolve our Relation to the old, nor inferr a Title to a New Biſhop, which is the Point before us. Nor can they juſtly deny thoſe Externals to the Church, though they may to thoſe that offend againſt her, on a juſt pre<g ref="char:EOLhyphen"/>ſumption of the Churches conſent, or her expreſs Petition thereunto. And this was the Sence of St. <hi>Athanaſius,</hi> when he denied <hi>Conſtantius</hi> a Church for <hi>Arians</hi> in <hi>Alexandria;</hi> and of St. <hi>Ambroſe,</hi> when he and his Flock kept their Churches at <hi>Milan,</hi> againſt the Commands and Terrours of the Emperour <hi>Valentinian,</hi> Junior, on the behalf of the <hi>Arians;</hi> and of St. <hi>Chryſoſtom,</hi> when he at <hi>Conſtantinople</hi> de<g ref="char:EOLhyphen"/>nied the Emperour <hi>Arcadius</hi> a Church, for <hi>Gamas</hi> his <hi>Arian</hi> General. And even in Places not Conſecrated, Place, Time, and Air, and Liberty to do good, are the Primitive, Fundamental, and undeniable Rights of the Innocent: Elſe the Chriſtians had ſinned, in uſing theſe for Chriſtian
+<pb n="26" facs="tcp:49698:17"/>Worſhip againſt the Laws Imperial. So that as yet you can fix no Spiritual Powers in Secular States, that can extinguiſh a Chriſtian Man's Chriſtian Graces, Rights and Orders.</p>
+            </sp>
+            <sp>
+               <speaker>Eucher.</speaker>
+               <p>But our Lawyers tell us, that our Kings are mixt Perſons, and not mere Laity; and ſo by a joint Act of Sa<g ref="char:EOLhyphen"/>cred and Civil Authority, may execute Spiritual Cenſures, as far as their Authority hath a mixture of Spirituals.</p>
+            </sp>
+            <sp>
+               <speaker>Dyſcher.</speaker>
+               <p>The Doctrine of Lawyers is with us no Divini<g ref="char:EOLhyphen"/>ty; and St. <hi>Ambroſe</hi> and <hi>Theodoſius</hi> the Emperour had other Sences, when the Biſhop would not permit the Emperour, being of the Laity, to come within the Chancel, or the Rails of the Altar; and the Emperour acknowledged the Prohibition to be properly Juſt and Epiſcopal, and the Rule Eccleſiaſtical, which he would never more neglect during his Life.</p>
+            </sp>
+            <sp>
+               <speaker>Eucher.</speaker>
+               <p>But though he is of the Laity, yet being Chri<g ref="char:EOLhyphen"/>ſtian, by virtue of his Chriſtianity, and Civil Sovereignty too, he may have Chriſtian joyntly with his Civil Autho<g ref="char:EOLhyphen"/>rities: For as Chriſtian, he may be reputed as Head, and Repreſentative of the whole Chriſtian Laity, whom you grant before at Liberty, to ſeparate from an offenſive Bi<g ref="char:EOLhyphen"/>ſhop, and to procure another from Social Biſhops. Or if you will not admit him the alone Repreſentative of the Laity, then you may take in the Lords and Commons, the whole Chriſtian Legiſlative, into that Number, or Body of Repreſentatives.</p>
+            </sp>
+            <sp>
+               <speaker>Dyſcher.</speaker>
+               <p>This Notion, as ſpecious as it is, will not hold; for then the King and the Legiſlative muſt be profeſſed Members of our Churches Communion; but they claim this Right by virtue of the Royalty, and Legiſlative Power, though the King be not of our Religious Communion. They will ſtand by all their Acts in or about Eccleſiaſticals, though contrary to all the Canons of Eccleſiaſtical Integri<g ref="char:EOLhyphen"/>ty, or elſe I will not give Two-pence for the Act of To<g ref="char:EOLhyphen"/>leration. And in this Caſe, before us, they deprive the Biſhops on a pretended Title of the Civil Sovereignty, for the juſt and neceſſary ſecurity thereof; and there is the ſame Reaſon for Heathen Monarchs to deprive Chriſtian Biſhops on the ſame Pretenſions.</p>
+            </sp>
+            <sp>
+               <speaker>Eucher.</speaker>
+               <p>I am almoſt weary with ſtruggling; and for that Cauſe will admit, that an Act of a State Chriſtian can<g ref="char:EOLhyphen"/>not
+<pb n="27" facs="tcp:49698:17"/>not alone vacate a Spiritual Charge, by any Divine Law, or Primitive Canon, or Preſcription; yet ſuch an Act re<g ref="char:EOLhyphen"/>ceived, and admitted by the Church, may from her con<g ref="char:EOLhyphen"/>currence have a juſt and legal Effect. And then upon this Notion the Statute of Deprivation <hi>ipſo facto,</hi> muſt be taken for a Law upon the Church, to eject ſuch Recuſants totally from their Stations; and the other Laws for <hi>Conge deſlire,</hi> &amp;c. as Commands on the Church, to admit thoſe the King Recommends to the Sees, which either are, or by the State are reputed Vacant. And then the concurrence of the Church to theſe Laws of the State doth actually, and (upon juſt Cauſes) rightfully exauctorate thoſe, whom the Statute dooms to Deprivation. And to ſay Truth, in all Eccleſiaſticals, 'tis the actual Concurrence of the Church, that gives the Statutes an Eccleſiaſtical Effect and Iſſue, and ſo, though the Original of the Deprivation be Secular, yet the Form is Eccleſiaſtical; and in this the Eſſential Vertue thereof lies, and is properly Spiritual and Chriſtian. Tho' then the Laws require, yet the Chapters, Biſhops, Clergy, and Laity, do thereupon actually reject, and deprive one and admit another Biſhop, <hi>&amp;c.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Dyſcher.</speaker>
+               <p>Then neither the Act for Deprivation, nor the Writ of <hi>Conge deſlire</hi> do alone vacate the Sees; and if not, by what Authority can Chapters proceed to Elect, and Bi<g ref="char:EOLhyphen"/>ſhops proceed to Conſecrate new ones in the ſtead of the actual Incumbents?</p>
+            </sp>
+            <sp>
+               <speaker>Eucher.</speaker>
+               <p>Becauſe under all the Obligations Cauſes here<g ref="char:EOLhyphen"/>in, the Church ought to empt the Sees of ſuch Incumbents, that are dangerous to the Civil State, by Acts of Separation properly Eccleſiaſtical, and ſo it doth; the Dean and Chap<g ref="char:EOLhyphen"/>ter of the Metropolitical Church taking the Juriſdiction, till the Chapter Elect, and Biſhops Conſecrate another, <hi>&amp;c.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Dyſcher.</speaker>
+               <p>Who are the proper Judges of this Duty, to eject a Biſhop at the Command of the State?</p>
+            </sp>
+            <sp>
+               <speaker>Eucher.</speaker>
+               <p>All Parties preſſed thereunto by the Civil Powers, with a proper Judgment of Conſcience for themſelves and the Church, tho' not of ordinary Juriſdiction over the Bi<g ref="char:EOLhyphen"/>ſhop. For when two powers conteſt, and require my con<g ref="char:EOLhyphen"/>currence, I muſt then judge on which ſide Juſtice lies, and to which thereupon Duty binds me; and to that I muſt ad<g ref="char:EOLhyphen"/>here, and do my Part to hinder the other Party, from op<g ref="char:EOLhyphen"/>poſing
+<pb n="28" facs="tcp:49698:18"/>that which I am in Duty bound to. And when Chap<g ref="char:EOLhyphen"/>ters and Biſhops thus acting, obtain the conſequent Concur<g ref="char:EOLhyphen"/>rence and Comprobation of the whole Church; their Acts have as good an Authority from Humane Conſent, as the re<g ref="char:EOLhyphen"/>ceived Docrees of Councils, whoſe Validity ſtands or falls with the ſubſequent Sence of the Churches in common.</p>
+            </sp>
+            <sp>
+               <speaker>Dyſcher.</speaker>
+               <p>The ſilence and yielding of the Churches in com<g ref="char:EOLhyphen"/>mon, conſequent upon the Violences Men admit, for fear of Perſecution, ſignifies no certain Perſwaſion or Conviction, that the Deprived ſuffer nothing but Juſtice. If our Cauſe had been Condemned in your Convocations, you had brought a more ſpecious Argument, for the Sence and Cen<g ref="char:EOLhyphen"/>ſure of the Church, than this thin Pretence, that carries no Colour nor Shadow of Probability.</p>
+            </sp>
+            <sp>
+               <speaker>Eucher.</speaker>
+               <p>Even here I will endeavour to ſatisfie you, tho' I ſhall not gratifie you. The General Conformity of moſt Biſhops, Clergy and Laity; our ſending a Convocation at Their Majeſties Precept, ſhews we own Subjection to them, and Condemns the Recuſancy as an Errour, which of what Conſequence it is, every Man, that thinks it Errour, ſees. And the ſilence of the Convocations under this Statute of Deprivation, argues their Opinion to be, that they were in this to yield to the State.</p>
+            </sp>
+            <sp>
+               <speaker>Dyſcher.</speaker>
+               <p>As if this ſilence was not the reſult of Fear and Treachery, rather than Judgment! for this we charge upon <hi>Liberius,</hi> and the Council of <hi>Ariminum,</hi> when their concur<g ref="char:EOLhyphen"/>rence with the <hi>Arians</hi> is urged in Defence of <hi>Arianiſm.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Eucher.</speaker>
+               <p>Had the Convocation firſt ſtoutly decried the Statute, as <hi>Liberius,</hi> and that Council at firſt did <hi>Arianiſm,</hi> and had upon Menaces, or Experiences of bodily Perſecu<g ref="char:EOLhyphen"/>tion retracted their Remonſtrances, then ſuch a forced Compliance might have been cenſurable for Cowardice; but here being nothing of this, but a calm and conſtant quiet under the Procedures of the State, it muſt be reſolved, that the Sence of the Convocation judged it allowable.</p>
+            </sp>
+            <sp>
+               <speaker>Dyſcher.</speaker>
+               <p>But if the Church ſhall yield, without any Re<g ref="char:EOLhyphen"/>monſtrance, to ſuch Intruſions of Civil Powers upon the Churches Liberties, Cenſures, and Authorities, then for Cauſe or no Cauſe, we ſhall be liable to Suſpenſions, and Deprivations, according to the Tydes of Humour and Temper in our Legiſlatours, and thus fall under the Arbitra<g ref="char:EOLhyphen"/>ry
+<pb n="29" facs="tcp:49698:18"/>Diſpoſals, which the High-Prieſthood of the Jews ſuf<g ref="char:EOLhyphen"/>fered under Heathen, and the <hi>Greek</hi> Patriarchals now ſuf<g ref="char:EOLhyphen"/>fers under <hi>Mahumetan</hi> Princes; a Blemiſh not to be endured by any Church, whatſoever it incurs for the Oppoſition.</p>
+            </sp>
+            <sp>
+               <speaker>Eucher.</speaker>
+               <p>You may remember, that I have yielded to you, that the Conſent, Publick and Actual Concurrence of the Church, is neceſſary to give an Eccleſiaſtical Effect to Civil Ordinances, in Matters of the Church. And ſo here, the Church is to Judge, whether ſhe may, or muſt in Duty con<g ref="char:EOLhyphen"/>curr, or no; and hence a Right eſſentially belongs to it, to examine all the Cauſes of the Secular Demands. So that if ſhe finds there are no Grave Reaſons, to move the Church to the required Severities, ſhe ought to diſobey, as my Lord Biſhop of <hi>London</hi> well did, when required to Suſpend Dr. <hi>Sharp indictâ cauſâ:</hi> Nay, ſo he ought to have done, had the King been <hi>de jure</hi> Arbitrary, and of Deſpo<g ref="char:EOLhyphen"/>tick Power. Thus if a Prince ſhall trifle, and require a Biſhop to Hawk, Hunt, play at Tables, run Races, <hi>&amp;c.</hi> up on pain of Deprivation, though none of theſe things be ſimply Unlawful for Men in General, or for a Biſhop to a<g ref="char:EOLhyphen"/>void a Perſecution; yet upon neglect of ſuch injoyned Fol<g ref="char:EOLhyphen"/>lies, no Man will judge a Deprivation Juſt, nor the neglect a Sin; nor ought the Church to admit Deprivations on ſuch improper and unreaſonable Demands. Thus <note n="†" place="margin">Naz. in Epitaph. Patr. <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> 
+                  <hi>Gregory Na<g ref="char:EOLhyphen"/>zianzen</hi> the Father, in the behalf of the Church of <hi>Cappadocia,</hi> tells <hi>Julian,</hi> That they will ſtand by the Biſhop they had ſet in the Church of <hi>Ceſarea,</hi> whatſoever Law or Violence he ſhould offer to the contrary. And I will grant you, that the Church hath this Right, againſt the Violence of Chriſtian, as well as Heathen Princes; ſince 'tis the quality of the Cauſe, not the Prince, upon which the Church is to Act; Elſe under the Name of Chriſtian, many Un-Chriſtian Pranks may be obtruded on the Church, to the Reproach and Ruine of Chriſtianity. And whether the Church yields to, or oppoſes the Laws of the State, juſtly or unjuſtly, muſt not be judged alone from
+<pb n="30" facs="tcp:49698:19"/>the Rights of Civil Sovereignty, but upon the Reaſons of the Subject Matter, in which the Concurrence of the Church is required. And in our Caſe the Church judges it Lawful and Rational, for her to admit the preſent Law of Deprivation, from the Weight and Reaſons thereof a<g ref="char:EOLhyphen"/>gainſt the preſent Recuſancy. And our Judgment herein hath greater Foundation than thoſe Concurrences and Acts of the Church, in the High Commiſſions Eccleſiaſtical had heretofore in the Suſpenſions, Deprivations (in ſeveral Reigns of Reformed Princes) that were purely the Executions of a Royal Authority, delegated to the Judges, upon little (many times) and captious Exceptions, relating ſometimes to Ci<g ref="char:EOLhyphen"/>vils, ſometimes to Eccleſiaſticals.</p>
+            </sp>
+            <sp>
+               <speaker>Dyſcher.</speaker>
+               <p>But here the chief Delegates, pronouncing Eccleſi<g ref="char:EOLhyphen"/>aſtical Cenſures were generally Biſhops, tho' the Aſſeſſours were ſeveral of them Lay Perſonages, without whoſe Vote or Privity nothing was to be done. And this with good Rea<g ref="char:EOLhyphen"/>ſon, the Cauſes cenſurable being many times mixt, and ſo likewiſe the Judgments, that is, partly of Civil, partly of Ec<g ref="char:EOLhyphen"/>cleſiaſtical Importance. But tho' the King's Commiſſion did give them Licenſe, as to Place, Matter, Form, and time of Proceeding; yet the Eccleſiaſtical Cenſures, had their Eccle<g ref="char:EOLhyphen"/>ſiaſtical Virtue from the Eccleſiaſtical Authority of the Ec<g ref="char:EOLhyphen"/>cleſiaſtical Delegates pronouncing them, as in the Cenſures of Excommunication is moſt Evident, this being plainly not of Regal, but Apoſtolick Authority, and the Power of the Keys, which none of our Reformed Princes would aſſume to themſelves, or delegate to mere Lay-Judges.</p>
+            </sp>
+            <sp>
+               <speaker>Eucher.</speaker>
+               <p>But what think you of the Deprivation paſt on the Biſhops, <hi>&amp;c.</hi> Recuſant to the Royal Supremacy of Queen <hi>Elizabeth,</hi> by Vertue of an Act of Parliament; which by their Lay Power did overbear the Epiſcopal, and upon whoſe Order herein ſtandeth our Eccleſiaſtical Succeſſion from thoſe Biſhops, that ſucceeded in the room of the Deprived?</p>
+            </sp>
+            <sp>
+               <speaker>Dyſcher.</speaker>
+               <p>You muſt note that theſe Recuſants were guilty of the falſe Doctrine of the Papal, againſt the Regal Supre<g ref="char:EOLhyphen"/>macy: Which falſe Doctrine had been before Synodically condemned in the Reign of <hi>H.</hi> VIII, and ſo effectually ſtood, tho' Q. <hi>Mary</hi> martyred, deprived, and exiled both the Orthodox Biſhops and Clergy, for this really, as well as for
+<pb n="31" facs="tcp:49698:19"/>other Orthodoxies. Therefore thoſe deprived by Q. <hi>Eliz.</hi> were either Apoſtate from the Doctrine they had before profeſſed in entrance into their Stations, and ſo were <hi>ipſo facto</hi> irregular, and to be, <hi>de jure Canonico,</hi> deſerted of all; or elſe they came into the rooms of Men unjuſtly deprived, and ſo were Uſurpers; or into Places really vacant; which, for not owning by Oath and Doctrine the Regal Suprema<g ref="char:EOLhyphen"/>cy, they were not capable of, by the ſtill unrepealed Canons of the Church, and ſo were, in truth, not true Biſhops, nor Miniſters of the Places they aſſumed. Well therefore might they deprive them of the Biſhopricks, <hi>&amp;c.</hi> that were in no Canonical Title the true Proprietors. But here ours depri<g ref="char:EOLhyphen"/>ved were all true Proprietors, under no Irregularity, through Apoſtaſie, falſe Doctrine, or uncanonical Deficiencies.</p>
+            </sp>
+            <sp>
+               <speaker>Eucher.</speaker>
+               <p>You frame new Notions now, not ſtarted, nor con<g ref="char:EOLhyphen"/>ceived then. For, upon your Plea, they ſhould never have ſate in that Parliament, nor have been owned as Biſhops be<g ref="char:EOLhyphen"/>fore that Act paſt; but yet ſo they were in all their Titles. And in the Diſputation at <hi>Weſtminſter,</hi> in the beginning of the Queens Reign, the five Popiſh Biſhops were owned with all their Titles by the Lords of the Queen's Privy Council, and by the Proteſtant Diſputants themſelves: Even as <hi>Hooper</hi> alſo owns them for ſuch, and the whole Popiſh Convocation for ſuch, in his <hi>Epiſtle</hi> that he wrote to it in the days of Q. <hi>Mary.</hi> And in that Station they had continued upon their former Inſtallations (except only ſuch, who had offended, or uſurped the Places of Men yet in being, and expecting reſtitution) if they would have taken the Oath of Supre<g ref="char:EOLhyphen"/>macy. Here therefore the State enacts and Eccleſiaſtical Deprivation; and it is all one, whether you will ſay on a Civil, or Eccleſiaſtical Point; if on a Civil, then the Caſe is the ſame with ours; if Eccleſiaſtical alſo, then that Par<g ref="char:EOLhyphen"/>liament entred more upon Eccleſiaſtical Matters, and Au<g ref="char:EOLhyphen"/>thorities than this hath done; and yet you condemn not that Parliament as Schiſmatical, nor the Church admitting it Apoſtate: Why then charge you this upon our State and Church now? Here is no doctrinal Point of <hi>Theology,</hi> which the State determines againſt the Right of the Church here<g ref="char:EOLhyphen"/>in, but only a mere queſtion in Civils, who is my Sovereign to whom my Allegiance is by Law due. Which is a De<g ref="char:EOLhyphen"/>bate, not for a Synod, but a Parliament; and to whoſe Judg<g ref="char:EOLhyphen"/>ment,
+<pb n="32" facs="tcp:49698:20"/>in pure Civils, all Subjects muſt ſubmit; and the Church, as ſuch, hath nothing to do in the Deciſion. And Dr. <hi>Hammond,</hi> whom, I ſuppoſe, Men of your Principles will not Cenſure for Schiſm, or Diſloyalty, <note n="*" place="margin">Tract. of Schiſm, c. <gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note> juſtifies Q. <hi>Elizabeth</hi>'s Deprivations for that Recuſancy, immediately; <hi>On the Right and Power of the Supreme Magiſtrate to make Laws for the ſecuring his Government, and to inflict the Puniſh<g ref="char:EOLhyphen"/>ments preſcribed by thoſe Laws on the Diſobedient: And for this true Right he thinks all Government is concerned. And concludes there was no Injuſtice in that Act of the Queen's, which diveſted prove their Fidelity to their Lawful Sovereign.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Dyſcher.</speaker>
+               <p>The Doctor indeed thus ſtates it; but he ſticks to the Lawful Sovereign.</p>
+            </sp>
+            <sp>
+               <speaker>Eucher.</speaker>
+               <p>Are you obliged to enquire into the Sovereign's Lawful Title?</p>
+            </sp>
+            <sp>
+               <speaker>Dyſcher.</speaker>
+               <p>Yes, ſurely, in order to juſt Allegiance.</p>
+            </sp>
+            <sp>
+               <speaker>Eucher.</speaker>
+               <p>What, as a Chriſtian, or a Subject?</p>
+            </sp>
+            <sp>
+               <speaker>Dyſcher.</speaker>
+               <p>Primarily as a Subject; but, ſecondly, alſo as a Chriſtian in a ſtate of Subjection; the Duties of which the Rules of Chriſtianity require me to perform.</p>
+            </sp>
+            <sp>
+               <speaker>Eucher.</speaker>
+               <p>Very well! For here your Chriſtianity refers your Obedience to the Secular Laws and Conſtitutions, and gives no Laws or Rules in Civils it ſelf. And in truth, the Church, as ſuch, is a Stranger, and the State its Hoſpital, while ſhe is travelling from hence to her Heavenly abodes. Now eve<g ref="char:EOLhyphen"/>ry Stranger, hoſpitably received, is obliged to all the Laws of Hoſpitably on his part; that is, Fidelity, and Uncon<g ref="char:EOLhyphen"/>cernedneſſs in the Oeconomick's and Intereſts of the Hoſpi<g ref="char:EOLhyphen"/>tal, and all reaſonable Defence againſt Violences offered to the Maſter, or His Family, <hi>&amp;c.</hi> and is not obliged to take notice of Titles, and Competitions. So the Church, as ſuch, if Hoſpitably received by the State, is quitted, as a Stranger, from Curioſities about the Civil Titles. But, as Chriſtians, are Natives, or Deniſons, and ſo Subjects, they are to the determined by the Civil Laws, and Judicatories, and Conſtitutions; elſe there muſt be eternal Seditions, ſince 'tis not poſſible in Fact, or Law, that every ſingle Per<g ref="char:EOLhyphen"/>ſon can have Cogniſance, or Unanimity. And here I will ask you one queſtion, relating to us, as a Church. Whether he that hath unjuſtly gotten into a full Settlement upon
+<pb n="33" facs="tcp:49698:20"/>another Prince's Dominions, ought to Succour the Church in thoſe Dominions?</p>
+            </sp>
+            <sp>
+               <speaker>Dyſcher.</speaker>
+               <p>He ought to quit them.</p>
+            </sp>
+            <sp>
+               <speaker>Eucher.</speaker>
+               <p>This may be in moſt Caſes, tho' not, perhaps, Uni<g ref="char:EOLhyphen"/>verſally true: But, if he doth not, is he obliged to Succour the Church, during his Government?</p>
+            </sp>
+            <sp>
+               <speaker>Dyſcher.</speaker>
+               <p>He ſhould, as it ſeems; for I know not how to ſay the contrary.</p>
+            </sp>
+            <sp>
+               <speaker>Eucher.</speaker>
+               <p>What! Tho' the Church refuſes Subjection, and profeſſeth Hoſtility to him?</p>
+            </sp>
+            <sp>
+               <speaker>Dyſcher.</speaker>
+               <p>I am not ſo hardy to affirm this.</p>
+            </sp>
+            <sp>
+               <speaker>Eucher.</speaker>
+               <p>The reſult then is, That if the Imperial Powers be bound to Cheriſh the Church, the Church muſt be obli<g ref="char:EOLhyphen"/>ged to Secure them of her Fidelity: And if particular Members refuſe, they are Enemies to the Church, as well as to the State: And therefore their Deprivation in the Church the more Rational, and perhaps (as to the actual Admini<g ref="char:EOLhyphen"/>ſtration of the Functions) abſolutely neceſſary.</p>
+            </sp>
+            <sp>
+               <speaker>Dyſcher.</speaker>
+               <p>Are you at that again?</p>
+            </sp>
+            <sp>
+               <speaker>Eucher.</speaker>
+               <p>I pray attend, and give Righteous Judgment. The Subjects of <hi>England</hi> owe Allegiance ſomewhere, either to K. <hi>James</hi> or K. <hi>William,</hi> this is certain. They then, that refuſe Allegiance to K. <hi>William,</hi> reſerve it to K. <hi>James;</hi> by which, at his Command, they are to engage in an actual War againſt all Conformiſts as Traytors and Rebels; and this People are to be Taught to do upon pain of Damna<g ref="char:EOLhyphen"/>tion. The Church, in the mean time, hath admitted K. <hi>William,</hi> and given him Allegiance againſt all Hoſtilities. I am not here concerned whether ſide is in the right Allegi<g ref="char:EOLhyphen"/>ance, but ſhall only obſerve, That no Prieſts can well Exe<g ref="char:EOLhyphen"/>cute their Eccleſiaſtical Functions to a People, whom, at another Man's Pleaſure, they are bound to Deſtroy; to the effecting, actually whereof, there wants nothing but oppor<g ref="char:EOLhyphen"/>tunity. I do not ſay, That theſe unfortunate good Biſhops, and Clergy would concurr to, or promote ſuch Butcheries; but am firmly perſuaded, that a Nature, better than their Politicks, would govern their Practices: But then it is cer<g ref="char:EOLhyphen"/>tain, that Nature it ſelf muſt condemn their Principles, and their very Bowels render them diſobedient to their own Laws, and Civil Maxims; which, if purſued, muſt expoſe this Nation to an utter Deſtruction at K. <hi>James</hi>'s Pleaſure:
+<pb n="34" facs="tcp:49698:21"/>'Tis neceſſary, therefore, that Eccleſiaſtical Union comport with the Civil, in order to a Juſt and Mutual Peace.</p>
+            </sp>
+            <sp>
+               <speaker>Dyſcher.</speaker>
+               <p>Was there no way to have healed this Rupture before it grew ſo wide?</p>
+            </sp>
+            <sp>
+               <speaker>Eucher.</speaker>
+               <p>I cannot tell that; but the time aſſigned by the Law, and the King's long forbearance to fill the Sees after the day of Deprivation, argues a willingneſs in the State to give Men time to conſider, and to allay their Prejudices, and uſe means to come under the Publick Shelter; of which the Reſtitution and Preferment of Dr. <hi>Sherlock</hi> is a clear In<g ref="char:EOLhyphen"/>ſtance. But the Recuſants ſeem againſt all Intreaties want<g ref="char:EOLhyphen"/>ing to themſelves, and an happy Coalition. They have made no offers, no applications, but receeded further from Sacred and Civil Communion than at firſt they did; which neglect muſt look like a contempt, at leaſt, if not an hatred of the Conſtitution. Nay, I know a Dioceſs, where the Biſhop ut<g ref="char:EOLhyphen"/>terly ſuppreſſed a Petition, ſigned by his Clergy; and ready to be preſented to Their Majeſties for the Reſtitution of the Metropolitan, the Biſhop, and the Suſpended Clergy of that Dioceſs. And I have it from a good Hand, that a Motion for ſuch a Petition was ſtifled in the Lower Houſe of Convoca<g ref="char:EOLhyphen"/>tion, upon a Report made of my Lord Archbiſhop <hi>Sancroft</hi>'s Requeſt to the contrary. The Reaſons of this Averſneſs did, no doubt, unto them, ſeem Pious and Rational; nor do I condemn them: But how far this Diſchargeth the Clergy in their admiſſion of new Biſhops, beſides the Cauſes Original, God muſt judge; and theſe Fathers have reaſon tenderly to conſider, who would uſe, or admit no Means of continuing with us, but have left us in great Diſtreſſes, for the loſs of them, whom we ſo much love; and for the Prejudices and Scandals, that ariſe upon this unhappy Occaſion.</p>
+            </sp>
+            <sp>
+               <speaker>Dyſcher.</speaker>
+               <p>The ſtate of things is very Deplorable. May the Grace of God lead us into all Truth, Wiſdom, Meekneſs, Gentleneſs, Charity, and an Univerſal Conformity to his Ho<g ref="char:EOLhyphen"/>ly Will in all our Actions and Sufferings; That no Evil Root of Bitterneſs, Conſoriouſneſs, or Schiſm may ſowre or cor<g ref="char:EOLhyphen"/>rupt our Spirits, but that the Love of God may guide us in the midſt of all Temptations; that at length, in this di<g ref="char:EOLhyphen"/>vided People, Mercy and Truth may meet together, and Righteouſneſs and Peace may kiſs each other.</p>
+            </sp>
+            <sp>
+               <speaker>Eucher.</speaker>
+               <p>And let all the People ſay, <hi>Amen, Amen.</hi>
+               </p>
+            </sp>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
